@@ -1,144 +1,1174 @@
-Name,Siblings and Spouses,female,Cabin Class 2,Cabin Class 3,Cherbourg,Queenstown,"Age (20, 28]","Age (28, 38]","Age (38, 80]",Mrs.,Miss,VIP,Survived,survival_prob
-"Sagesser, Mlle. Emma",0,1,0,0,1,0,1,0,0,0,1,0,1,0.93101387803851
-"Eustis, Miss. Elizabeth Mussey",1,1,0,0,1,0,0,0,1,0,1,0,1,0.8611592857070257
-"Taussig, Mr. Emil",1,0,0,0,0,0,0,0,1,0,0,0,0,0.2895239266843006
-"Ryerson, Miss. Emily Borie",2,1,0,0,1,0,0,0,0,0,1,0,1,0.9163249739356484
-"Sharp, Mr. Percival James R",0,0,1,0,0,0,1,0,0,0,0,0,0,0.24518078184952413
-"Thayer, Mr. John Borland Jr",0,0,0,0,1,0,0,0,0,0,0,0,1,0.6051491858380702
-"Abbott, Mrs. Stanton (Rosa Hunt)",1,1,0,1,0,0,0,1,0,1,0,0,1,0.6410656017873303
-"Graham, Mrs. William Thompson (Edith Junkins)",0,1,0,0,0,0,0,0,1,1,0,0,1,0.915794653034422
-"Porter, Mr. Walter Chamberlain",0,0,0,0,0,0,0,0,1,0,0,0,0,0.33737272129829315
-"Ohman, Miss. Velin",0,1,0,1,0,0,1,0,0,0,1,0,1,0.5396604986996479
-"Crease, Mr. Ernest James",0,0,0,1,0,0,0,0,0,0,0,0,0,0.11748907162760394
-"Bateman, Rev. Robert James",0,0,1,0,0,0,0,0,1,0,0,1,0,0.1571979678065785
-"Barton, Mr. David John",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Mallet, Mr. Albert",1,0,1,0,1,0,0,1,0,0,0,0,0,0.2606920222675255
-"Bourke, Mrs. John (Catherine)",1,1,0,1,0,1,0,1,0,1,0,0,0,0.6410656017873303
-"Gronnestad, Mr. Daniel Danielsen",0,0,0,1,0,0,0,1,0,0,0,0,0,0.09458513414061784
-"Ilett, Miss. Bertha",0,1,1,0,0,0,0,0,0,0,1,0,1,0.8210877759056546
-"Lang, Mr. Fang",0,0,0,1,0,0,1,0,0,0,0,0,1,0.09510533185372536
-"Newell, Miss. Marjorie",1,1,0,0,1,0,1,0,0,0,1,0,1,0.9152658485150802
-"Silven, Miss. Lyyli Karoliina",0,1,1,0,0,0,0,0,0,0,1,0,1,0.8210877759056546
-"Gilinski, Mr. Eliezer",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Parrish, Mrs. (Lutie Davis)",0,1,1,0,0,0,0,0,1,1,0,0,1,0.7993652588616037
-"Madill, Miss. Georgette Alexandra",0,1,0,0,0,0,0,0,0,0,1,0,1,0.9260772139832273
-"Hickman, Mr. Leonard Mark",2,0,1,0,0,0,1,0,0,0,0,0,0,0.17224085217766807
-"Mionoff, Mr. Stoytcho",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Boulos, Miss. Nourelain",1,1,0,1,1,0,0,0,0,0,1,0,0,0.6185859561936021
-"Ford, Mr. William Neal",1,0,0,1,0,0,0,0,0,0,0,0,0,0.09629393353645735
-"Najib, Miss. Adele Kiamie ""Jane""",0,1,0,1,1,0,0,0,0,0,1,0,1,0.6695661840693328
-"Adahl, Mr. Mauritz Nils Martin",0,0,0,1,0,0,0,1,0,0,0,0,0,0.09458513414061784
-"Dodge, Master. Washington",0,0,0,0,0,0,0,0,0,0,0,0,1,0.5289991715349662
-"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",1,1,1,0,0,0,0,1,0,1,0,0,1,0.8466212688958967
-"Bourke, Mr. John",1,0,0,1,0,1,0,0,1,0,0,0,0,0.04607782866820731
-"Vanden Steen, Mr. Leo Peter",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Pasic, Mr. Jakob",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Minahan, Dr. William Edward",2,0,0,0,0,1,0,0,1,0,0,1,0,0.24594259994477066
-"Navratil, Mr. Michel (""Louis M Hoffman"")",0,0,1,0,0,0,0,1,0,0,0,0,0,0.2440611143705311
-"Panula, Master. Eino Viljami",4,0,0,1,0,0,0,0,0,0,0,0,0,0.05180282420611229
-"Allison, Miss. Helen Loraine",1,1,0,0,0,0,0,0,0,0,1,0,0,0.9093120235587486
-"Lurette, Miss. Elise",0,1,0,0,1,0,0,0,1,0,1,0,1,0.8857074323541083
-"Barah, Mr. Hanna Assi",0,0,0,1,1,0,0,0,0,0,0,0,1,0.15373712756706373
-"Cardeza, Mr. Thomas Drake Martinez",0,0,0,0,1,0,0,1,0,0,0,0,1,0.5459945827037925
-"Asplund, Master. Edvin Rojj Felix",4,0,0,1,0,0,0,0,0,0,0,0,1,0.05180282420611229
-"Abbing, Mr. Anthony",0,0,0,1,0,0,0,0,1,0,0,0,0,0.05691608884441407
-"Coxon, Mr. Daniel",0,0,0,1,0,0,0,0,1,0,0,0,0,0.05691608884441407
-"Goldsmith, Mr. Frank John",1,0,0,1,0,0,0,1,0,0,0,0,0,0.07716062383210591
-"Sundman, Mr. Johan Julian",0,0,0,1,0,0,0,0,1,0,0,0,1,0.05691608884441407
-"Oreskovic, Mr. Luka",0,0,0,1,0,0,0,0,0,0,0,0,0,0.11748907162760394
-"Ford, Mrs. Edward (Margaret Ann Watson)",1,1,0,1,0,0,0,0,1,1,0,0,0,0.5078263327397478
-"Hood, Mr. Ambrose Jr",0,0,1,0,0,0,1,0,0,0,0,0,0,0.24518078184952413
-"Hassan, Mr. Houssein G N",0,0,0,1,1,0,0,0,0,0,0,0,0,0.15373712756706373
-"Gale, Mr. Shadrach",1,0,1,0,0,0,0,1,0,0,0,0,0,0.2053452786280028
-"Stranden, Mr. Juho",0,0,0,1,0,0,0,1,0,0,0,0,1,0.09458513414061784
-"Petranec, Miss. Matilda",0,1,0,1,0,0,1,0,0,0,1,0,0,0.5396604986996479
-"Danoff, Mr. Yoto",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Cook, Mr. Jacob",0,0,0,1,0,0,0,0,1,0,0,0,0,0.05691608884441407
-"Bonnell, Miss. Elizabeth",0,1,0,0,0,0,0,0,1,0,1,0,1,0.8502782586641708
-"Goldenberg, Mr. Samuel L",1,0,0,0,1,0,0,0,1,0,0,0,1,0.35735625221873296
-"Mallet, Master. Andre",0,0,1,0,1,0,0,0,0,0,0,0,1,0.3595691159491343
-"Petterson, Mr. Johan Emil",1,0,0,1,0,0,1,0,0,0,0,0,0,0.07759320314841908
-"Van der hoef, Mr. Wyckoff",0,0,0,0,0,0,0,0,1,0,0,0,0,0.33737272129829315
-"Becker, Master. Richard F",2,0,1,0,0,0,0,0,0,0,0,0,1,0.2085940938320447
-"Widener, Mr. Harry Elkins",0,0,0,0,1,0,1,0,0,0,0,0,0,0.5474961959597182
-"Sivic, Mr. Husein",0,0,0,1,0,0,0,0,1,0,0,0,0,0.05691608884441407
-"Leader, Dr. Alice (Farnham)",0,1,0,0,0,0,0,0,1,0,0,1,1,0.8502782586641708
-"McNamee, Mr. Neal",1,0,0,1,0,0,1,0,0,0,0,0,0,0.07759320314841908
-"Balkic, Mr. Cerin",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Svensson, Mr. Olof",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Rice, Master. Arthur",4,0,0,1,0,1,0,0,0,0,0,0,0,0.05180282420611229
-"Quick, Miss. Phyllis May",1,1,1,0,0,0,0,0,0,0,1,0,1,0.7860136131449553
-"Charters, Mr. David",0,0,0,1,0,1,1,0,0,0,0,0,0,0.09510533185372536
-"Hirvonen, Miss. Hildur E",0,1,0,1,0,0,0,0,0,0,1,0,1,0.5975780255579506
-"Carter, Mr. William Ernest",1,0,0,0,0,0,0,1,0,0,0,0,1,0.413621771984332
-"Kirkland, Rev. Charles Leonard",0,0,1,0,0,1,0,0,1,0,0,1,0,0.1571979678065785
-"Coleff, Mr. Satio",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Silvey, Mr. William Baird",1,0,0,0,0,0,0,0,1,0,0,0,0,0.2895239266843006
-"Partner, Mr. Austen",0,0,0,0,0,0,0,0,1,0,0,0,0,0.33737272129829315
-"White, Mr. Richard Frasar",0,0,0,0,0,0,1,0,0,0,0,0,0,0.46996603798489944
-"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",1,1,0,1,0,0,0,0,1,1,0,0,0,0.5078263327397478
-"Beckwith, Mr. Richard Leonard",1,0,0,0,0,0,0,1,0,0,0,0,1,0.413621771984332
-"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1,1,1,0,0,0,0,1,0,1,0,0,1,0.8466212688958967
-"Daly, Mr. Eugene Patrick",0,0,0,1,0,1,0,1,0,0,0,0,1,0.09458513414061784
-"Chambers, Mrs. Norman Campbell (Bertha Griggs)",1,1,0,0,0,0,0,1,0,1,0,0,1,0.9377628509997753
-"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",1,1,0,0,1,0,0,0,1,1,0,0,1,0.9223491072280433
-"Dorking, Mr. Edward Arthur",0,0,0,1,0,0,0,0,0,0,0,0,1,0.11748907162760394
-"Chronopoulos, Mr. Apostolos",1,0,0,1,1,0,1,0,0,0,0,0,0,0.10296862514332883
-"Levy, Mr. Rene Jacques",0,0,1,0,1,0,0,1,0,0,0,0,0,0.30582694700038193
-"Richards, Master. William Rowe",1,0,1,0,0,0,0,0,0,0,0,0,1,0.24773150648391637
-"Hippach, Miss. Jean Gertrude",0,1,0,0,1,0,0,0,0,0,1,0,1,0.9447356174590333
-"Kantor, Mr. Sinai",1,0,1,0,0,0,0,1,0,0,0,0,0,0.2053452786280028
-"Heikkinen, Miss. Laina",0,1,0,1,0,0,1,0,0,0,1,0,1,0.5396604986996479
-"Dennis, Mr. Samuel",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Drazenoic, Mr. Jozef",0,0,0,1,1,0,0,1,0,0,0,0,0,0.12476582055319839
-"Osen, Mr. Olaf Elon",0,0,0,1,0,0,0,0,0,0,0,0,0,0.11748907162760394
-"Rice, Mrs. William (Margaret Norton)",0,1,0,1,0,1,0,0,1,1,0,0,0,0.5631560864224322
-"White, Mr. Percival Wayland",0,0,0,0,0,0,0,0,1,0,0,0,0,0.33737272129829315
-"Clarke, Mrs. Charles V (Ada Maria Winfield)",1,1,1,0,0,0,1,0,0,1,0,0,1,0.8474064554630065
-"LeRoy, Miss. Bertha",0,1,0,0,1,0,0,1,0,0,1,0,1,0.9306236815498038
-"Lemberopolous, Mr. Peter L",0,0,0,1,1,0,0,1,0,0,0,0,0,0.12476582055319839
-"Bazzani, Miss. Albina",0,1,0,0,1,0,0,1,0,0,1,0,1,0.9306236815498038
-"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",1,1,1,0,0,0,0,0,1,1,0,0,0,0.76127073903334
-"Andrews, Miss. Kornelia Theodosia",1,1,0,0,0,0,0,0,1,0,1,0,1,0.8196698289557064
-"Montvila, Rev. Juozas",0,0,1,0,0,0,1,0,0,0,0,1,0,0.24518078184952413
-"Endres, Miss. Caroline Louise",0,1,0,0,1,0,0,1,0,0,1,0,1,0.9306236815498038
-"Newell, Mr. Arthur Webster",0,0,0,0,1,0,0,0,1,0,0,0,0,0.4099470324932755
-"Skoog, Mrs. William (Anna Bernhardina Karlsson)",1,1,0,1,0,0,0,0,1,1,0,0,0,0.5078263327397478
-"Connors, Mr. Patrick",0,0,0,1,0,1,0,0,1,0,0,0,0,0.05691608884441407
-"Moor, Master. Meier",0,0,0,1,0,0,0,0,0,0,0,0,1,0.11748907162760394
-"McKane, Mr. Peter David",0,0,1,0,0,0,0,0,1,0,0,0,0,0.1571979678065785
-"Hakkarainen, Mr. Pekka Pietari",1,0,0,1,0,0,1,0,0,0,0,0,0,0.07759320314841908
-"Waelens, Mr. Achille",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Nakid, Mr. Sahid",1,0,0,1,1,0,0,0,0,0,0,0,1,0.12694342509945852
-"Nicola-Yarred, Miss. Jamila",1,1,0,1,1,0,0,0,0,0,1,0,1,0.6185859561936021
-"Andreasson, Mr. Paul Edvin",0,0,0,1,0,0,0,0,0,0,0,0,0,0.11748907162760394
-"Mellors, Mr. William John",0,0,1,0,0,0,0,0,0,0,0,0,1,0.29150728357264083
-"Lesurer, Mr. Gustave J",0,0,0,0,1,0,0,1,0,0,0,0,1,0.5459945827037925
-"Goodwin, Master. William Frederick",5,0,0,1,0,0,0,0,0,0,0,0,0,0.041895003864327304
-"Johnson, Mr. Malkolm Joackim",0,0,0,1,0,0,0,1,0,0,0,0,0,0.09458513414061784
-"Chaffee, Mr. Herbert Fuller",1,0,0,0,0,0,0,0,1,0,0,0,0,0.2895239266843006
-"Appleton, Mrs. Edward Dale (Charlotte Lamson)",2,1,0,0,0,0,0,0,1,1,0,0,1,0.8744825736778662
-"Strandberg, Miss. Ida Sofia",0,1,0,1,0,0,1,0,0,0,1,0,0,0.5396604986996479
-"Albimona, Mr. Nassef Cassem",0,0,0,1,1,0,1,0,0,0,0,0,1,0.1254290109356154
-"Karun, Miss. Manca",0,1,0,1,1,0,0,0,0,0,1,0,1,0.6695661840693328
-"Hogeboom, Mrs. John C (Anna Andrews)",1,1,0,0,0,0,0,0,1,1,0,0,1,0.8969569264864932
-"Carr, Miss. Helen ""Ellen""",0,1,0,1,0,1,0,0,0,0,1,0,1,0.5975780255579506
-"Rosblom, Mrs. Viktor (Helena Wilhelmina)",0,1,0,1,0,0,0,0,1,1,0,0,0,0.5631560864224322
-"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",1,1,1,0,0,0,0,0,1,1,0,0,1,0.76127073903334
-"Wilhelms, Mr. Charles",0,0,1,0,0,0,0,1,0,0,0,0,1,0.2440611143705311
-"Moor, Mrs. (Beila)",0,1,0,1,0,0,1,0,0,1,0,0,1,0.6918376504624805
-"Panula, Mr. Ernesti Arvid",4,0,0,1,0,0,0,0,0,0,0,0,0,0.05180282420611229
-"Ayoub, Miss. Banoura",0,1,0,1,1,0,0,0,0,0,1,0,1,0.6695661840693328
-"Hocking, Mrs. Elizabeth (Eliza Needs)",1,1,1,0,0,0,0,0,1,1,0,0,1,0.76127073903334
-"Walker, Mr. William Anderson",0,0,0,0,0,0,0,0,1,0,0,0,0,0.33737272129829315
-"Palsson, Master. Gosta Leonard",3,0,0,1,0,0,0,0,0,0,0,0,0,0.06389749565339166
-"Gaskell, Mr. Alfred",0,0,1,0,0,0,0,0,0,0,0,0,0,0.29150728357264083
-"Gustafsson, Mr. Karl Gideon",0,0,0,1,0,0,0,0,0,0,0,0,0,0.11748907162760394
-"Vande Walle, Mr. Nestor Cyriel",0,0,0,1,0,0,1,0,0,0,0,0,0,0.09510533185372536
-"Hunt, Mr. George Henry",0,0,1,0,0,0,0,1,0,0,0,0,0,0.2440611143705311
-"Goldsmith, Master. Frank John William ""Frankie""",0,0,0,1,0,0,0,0,0,0,0,0,1,0.11748907162760394
-"Barbara, Mrs. (Catherine David)",0,1,0,1,1,0,0,0,1,1,0,0,0,0.6375672614175882
-"Rugg, Miss. Emily",0,1,1,0,0,0,1,0,0,0,1,0,1,0.7836944186185416
-"Futrelle, Mr. Jacques Heath",1,0,0,0,0,0,0,1,0,0,0,0,0,0.413621771984332
-"Doling, Miss. Elsie",0,1,1,0,0,0,0,0,0,0,1,0,1,0.8210877759056546
-"Bing, Mr. Lee",0,0,0,1,0,0,0,1,0,0,0,0,1,0.09458513414061784
+Agreement,Amnesty,SymbolicReparation,Ceasefire,Implementation,Failure_prob
+Tokyo Declaration Partnership for Self-Reliance in Afghanistan from Transition to Transformation (Tokyo Conference),0.0,0.0,0.0,1.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.15905199794653932
+Istanbul Process on Regional Security and Cooperation for a Secure and Stable Afghanistan,0.0,0.0,0.0,1.0,0.26093709055304504
+Renewed Commitment by the Afghan Government to the Afghan People and the International Community to Afghanistan (Kabul Conference Communique),0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.39725669547173537
+"Communiqué of the Conference on Afghan Leadership, Regional Cooperation, International Partnership (London Conference Communique)",0.0,0.0,0.0,0.0,0.15905199794653932
+Statement of the International Conference on Afghanistan (Hague Conference),0.0,0.0,0.0,0.0,0.39725669547173537
+Declaration of the Special Conference on Afghanistan Convened under the Auspices of the Shanghai Cooperation Organization (Moscow Declaration),0.0,0.0,0.0,1.0,0.39725669547173537
+Declaration of the International Conference in Support of Afghanistan (Paris Conference),0.0,0.0,0.0,1.0,0.26093709055304504
+Rome Conference on Justice and Rule of Law in Afghanistan,0.0,0.0,0.0,1.0,0.26093709055304504
+Afghanistan Compact Building on Success (London Conference),0.0,0.0,0.0,0.0,0.09199684253914414
+Berlin Declaration (Berlin Conference),0.0,0.0,0.0,1.0,0.09199684253914414
+Kabul Declaration of Good Neighbourly Relations,0.0,0.0,0.0,0.0,0.15905199794653932
+Communiqué of the International Conference on Reconstruction Assistance to Afghanistan (Tokyo Conference),0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement on Provisional Arrangements in Afghanistan Pending the Re-establishment of Permanent Government Institutions ('Bonn Agreement'),0.0,0.0,0.0,0.0,0.27657629429175
+,0.0,0.0,0.0,0.0,0.15905199794653932
+Afghan Peace Accord (Islamabad Accord),0.0,0.0,0.0,0.0,0.05550940685611987
+Peshawar Accord,0.0,0.0,0.0,0.0,0.39725669547173537
+Joint Declaration adopted by Pak-Afghan Joint Peace Jirga,0.0,0.0,0.0,0.0,0.15905199794653932
+Project de charte pour la paix et la réconciliation nationale,0.0,0.0,0.0,0.0,0.26093709055304504
+Texts for Implementing Acts relating to the Restoration of Civil Harmony,0.0,0.0,0.0,1.0,0.39725669547173537
+Civil Harmony Act,0.0,0.0,0.0,0.0,0.39725669547173537
+Plate-forme de l'entente nationale,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.09199684253914414
+Luena Memorandum of Understanding (Addendum to the Lusaka Protocol for the Cessation of Hostilities and the Resolution of the Outstanding Military Issues under the Lusaka Protocol),0.0,0.0,0.0,1.0,0.39725669547173537
+Angolan Government's Peace Plan,0.0,0.0,0.0,0.0,0.15905199794653932
+Agreement signed by the Government of the Republic of Angola and UNITA Renovada on 18 February 1999(Annex II to Agreement signed by the Government of the Republic of Angola and UNITA Renovada (Luanda Protocol)),0.0,0.0,0.0,1.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,1.0,0.15905199794653932
+"Final Timetable for the Implementation of the Lusaka Protocol, Approved by the Joint Commission at Luanda, 9 January 1998",0.0,0.0,0.0,1.0,0.39725669547173537
+Lusaka Protocol,0.0,0.0,0.0,1.0,0.15905199794653932
+Concepts for Resolving the Issues Still Pending between the Government of the People's Republic of Angola and UNITA (Bicesse Accords),0.0,0.0,0.0,1.0,0.26093709055304504
+"Peace Accords for Angola, Lisbon ('Bicesse Accords')",0.0,0.0,0.0,0.0,0.09886513532934212
+Ceasefire Agreement (Bicesse Accords),0.0,0.0,0.0,0.0,0.26093709055304504
+The Protocol of Estoril (Bicesse Accords),0.0,0.0,0.0,1.0,0.39725669547173537
+Fundamental principles for the establishment of Peace in Angola (Bicesse Accords),0.0,0.0,0.0,0.0,0.15905199794653932
+"Pact on Security, Stability, and Development in the Great Lakes Region",0.0,0.0,0.0,0.0,0.27657629429175
+"Dar-Es-Salaam Declaration on Peace, Security, Democracy and Development in the Great Lakes Region",0.0,0.0,0.0,0.0,0.09199684253914414
+"Peace, Security and Cooperation Framework for the Democratic Republic of the Congo and the region
+",0.0,0.0,0.0,1.0,0.39725669547173537
+Memorandum of Peace and Understanding in Cabinda Province,0.0,0.0,0.0,0.0,0.09199684253914414
+Protocol of Non-aggression and Mutual Defence in the Great Lakes Region,0.0,0.0,0.0,0.0,0.39725669547173537
+Joint Declaration on Cooperation over Offshore Activities in the South West Atlantic,0.0,0.0,0.0,0.0,0.39725669547173537
+"Joint Statement of Confidence-Building Measures, including an Information and Consultation System and Safety Measures for Air and Maritime Navigation",0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.15905199794653932
+Joint Statement by the Heads of Delegation of the OSCE Minsk Group Co-Chair Countries and the Presidents of Azerbaijan and Armenia,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement on strengthening the ceasefire,0.0,0.0,0.0,0.0,0.15905199794653932
+Agreement on Confirmation of Commitment to Ceasefire,0.0,0.0,0.0,1.0,0.39725669547173537
+Ceasefire Agreement Signed in Bishkek,0.0,0.0,0.0,0.0,0.09199684253914414
+Bishkek Protocol,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement on the Implementation of the 18 February 1994 Protocol,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement to Extend the Ceasefire for a Period of 3 Days,0.0,0.0,0.0,1.0,0.12591192771745371
+Agreement on the Resumption of the Ceasefire for a Period of 11 Days and a Meeting between the leaders of Azerbajan and Nagorno-Karabakh,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement on the Resumption of the Ceasefire for a Period of 5 Days and a Meeting Between the Leaders of Azerbaijan and Nagorno Karabakh ,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement to Extend the Ceasefire for a Period of 3 Days,0.0,0.0,0.0,0.0,0.07711562108804258
+Agreement to Extend the Ceasefire for a Period of 7 Days,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement on a Universal Ceasefire for a Period of 3 Days,0.0,0.0,0.0,0.0,0.22551559827944803
+Agreement on a Universal Ceasefire for a Period of 3 Days,0.0,0.0,0.0,1.0,0.09886513532934212
+Agreement on the Cessation of Hostilities in the Area between Magadiz and Agdam ,0.0,0.0,0.0,0.0,0.16998926767781447
+Agreement on the Cessation of Shelling of Stepanakert and Agdam,0.0,0.0,0.0,0.0,0.27657629429175
+,0.0,0.0,0.0,0.0,0.27657629429175
+,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.26093709055304504
+"His Majesty Delivers a Speech to Citizens Concerning Request to Amend Some Articles of the Constitution, 15 January 2012",0.0,0.0,0.0,1.0,0.39725669547173537
+"Bahrain National Dialogue Proposals, Executive Summary",0.0,0.0,0.0,0.0,0.04284431714218689
+"Royal Order No.28 of 2011, Establishing an Independent Commission to Investigate and Report on the Events Which Occurred in Bahrain in February/March 2011",0.0,0.0,0.0,0.0,0.15905199794653932
+"Speech by King Hamad Bin Isa Al-Khalifi on Reform, 1 June 2011",0.0,0.0,0.0,0.0,0.15905199794653932
+National Action Charter of Bahrain,0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement between the National Committee on Chittagong Hill Tracts Constituted by the Government and The Parbattya Chattagram Janasanghati Samity,0.0,0.0,0.0,0.0,0.39725669547173537
+"Framework on Police Restructuring Agreement, Reform and Democratization in the Republika Srpska",0.0,0.0,0.0,0.0,0.15905199794653932
+"Joint Statement, Split, Croatia",0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement on Special Parallel Relations between the Federal Republic of Yugoslavia and Republika Srpska,0.0,0.0,0.0,0.0,0.39725669547173537
+Decisions on Mostar of 12 February 1997,0.0,0.0,0.0,0.0,0.39725669547173537
+UN Security Council Resolution 1088,0.0,0.0,0.0,0.0,0.39725669547173537
+Exchange of letters providing for establishment of Stabilization Force (SFOR),0.0,0.0,0.0,0.0,0.22551559827944803
+Joint Declaration (on normalisation of relations between Federal Republic of Yugoslavia and Bosnia and Herzegovina),0.0,0.0,0.0,0.0,0.26093709055304504
+Agreement on Restructuring the Police (Bonn-Petersburg Agreement),0.0,0.0,0.0,1.0,0.39725669547173537
+Petersberg Declaration on the Federation of Bosnia and Herzegovina,0.0,0.0,0.0,0.0,0.26093709055304504
+"Agreement on the Federation of Bosnia and Herzegovina, Sarajevo",0.0,0.0,0.0,1.0,0.15905199794653932
+UN Security Council Resolution 1035,0.0,0.0,0.0,0.0,0.09199684253914414
+UN Security Council Resolution 1031,0.0,0.0,0.0,0.0,0.39725669547173537
+"Agreement for the establishment of the Bosnian, Croatian and Serbian language texts of the Annexes to the General Framework Agreement 
+",0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.09199684253914414
+General Framework Agreement for Peace in Bosnia and Herzegovina (Dayton Peace Agreement),0.0,0.0,0.0,1.0,0.15905199794653932
+Agreement on Initialling the General Framework Agreement for Peace in Bosnia and Herzegovina,0.0,0.0,0.0,1.0,0.15905199794653932
+"Dayton Agreement on Implementing the Federation of Bosnia and Herzegovina, Dayton",0.0,0.0,0.0,0.0,0.26093709055304504
+"Trilateral New York Declaration of Bosnia and Herzegovina, Croatia and Turkey",0.0,0.0,0.0,0.0,0.09199684253914414
+Ceasefire Agreement for Bosnia and Herzegovina,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.26093709055304504
+Agreement on the disarmament of the able-bodied population in the Zepa enclave,0.0,0.0,0.0,0.0,0.15905199794653932
+Declaration on Implementation of the Washington Agreement,0.0,0.0,0.0,1.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement for S4 Checkpoint,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,1.0,0.27657629429175
+Principles for Freedom of Movement (COHA implementation),0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement (COHA Implementation) ,0.0,0.0,0.0,1.0,0.3342091554503584
+"Protocol on Realisation of Agreement on Cessation of Hostilities of 31 December 1994 for Items 5, 6 and 8 and the Agreement on Freedom of Movement in the Area of Sarajevo of 17 March 1994",0.0,0.0,0.0,0.0,0.15905199794653932
+Meeting of Army Commanders (Military Implementation of COHA),0.0,0.0,0.0,1.0,0.39725669547173537
+Statement of understanding concerning the Comprehensive Cease-fire Agreement and the Agreement on Complete Cessation of Hostilities,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement on Complete Cessation of Hostilities,0.0,0.0,0.0,0.0,0.39725669547173537
+"Comprehensive Ceasefire Agreement, Pleso",0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,1.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.15905199794653932
+Agreement on the Elimination of Sniping Activities in the Sarajevo Region ,0.0,0.0,0.0,0.0,0.09199684253914414
+Joint Communique,0.0,0.0,0.0,1.0,0.15905199794653932
+COREU from ICFY,0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement on the Demilitarization of the 3km Total Exclusion Zone East of the River Drina,0.0,0.0,0.0,0.0,0.16998926767781447
+Vienna Agreements,0.0,0.0,0.0,0.0,0.39725669547173537
+"Final agreement reached between SRSG, Mr Akashi and the Bosnian Serb civilian and military authorities, Belgrade, 23 April 1994",0.0,0.0,0.0,1.0,0.39725669547173537
+Declaration Concerning the Constitution of the Federation of Bosnia and Herzegovina (with Proposed Constitution of the Federation of Bosnia and Herzegovina attached),0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.27657629429175
+Principles and Actions to be taken in Establishing the Future Federation Army of Bosnia Herzegovina,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,1.0,0.39725669547173537
+Framework Agreement for the Federation (Washington Agreement or Contact Group Plan),0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.26093709055304504
+Agreement (Ceasefire),0.0,0.0,0.0,0.0,0.15905199794653932
+Peace Accord (Ceasefire at Camp Pleso),0.0,0.0,0.0,0.0,0.09199684253914414
+,0.0,0.0,0.0,0.0,0.26093709055304504
+,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.39725669547173537
+Local Ceasefire Agreement Mostar - Bijela,0.0,0.0,0.0,0.0,0.09886513532934212
+,0.0,0.0,0.0,1.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.09886513532934212
+Sarajevo Joint Declaration,0.0,0.0,0.0,1.0,0.39725669547173537
+Joint Statement,0.0,0.0,0.0,0.0,0.05550940685611987
+Declaration,0.0,0.0,0.0,1.0,0.12591192771745371
+Joint Statement,0.0,0.0,0.0,1.0,0.39725669547173537
+"Agreement relating to Bosnia and Herzegovina (Owen-Stoltenberg Peace Plan, or 'Invincible plan')",0.0,0.0,0.0,0.0,0.09199684253914414
+,0.0,0.0,0.0,1.0,0.26093709055304504
+Agreement for withdrawal of forces from Igman and Bjelasnica,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.09886513532934212
+,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.15905199794653932
+Croat-Serb Constitutional Principles for Bosnia-Herzegovina,0.0,0.0,0.0,1.0,0.39725669547173537
+General agreement to halt the conflict in Bosnia-Herzegovina of 15 June 1993,0.0,0.0,0.0,0.0,0.15905199794653932
+Agreement among the parties to halt the conflict in Central Bosnia,0.0,0.0,0.0,1.0,0.39725669547173537
+,0.0,0.0,0.0,1.0,0.39725669547173537
+Text of US/Russia/UK/France/Spain Joint Action Programme (JAP) on Bosnia,0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement to calm the situation of the ABiH and HVO,0.0,0.0,0.0,0.0,0.05550940685611987
+Medjugorje Agreement ,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement on establishment of the cease-fire on the lines of contact made by LG Ratko Mladic and General Milivoj Petkovic,0.0,0.0,0.0,0.0,0.12591192771745371
+"Agreement on the cessation of hostilities in Bosnia and Herzegovina concluded between Gen. Milivoj Petkovic and Gen. Sefer Halilovic on 12 May 1993, in the presene of Lt. Gen. Philippe Morillon and ECMM.HRC Jean-Pierre Thebault",0.0,0.0,0.0,0.0,0.27657629429175
+,0.0,0.0,0.0,0.0,0.09199684253914414
+Agreement on the Demilitarization of Srebrenica and Zepa concluded between Lt Gen Ratko Mladic and Gen Sefer Halilovic on 8 May 1993 in the presence of Lt Gen Philippe Morillon,0.0,0.0,0.0,1.0,0.39725669547173537
+The Vance-Owen Plan,0.0,0.0,0.0,0.0,0.09199684253914414
+,0.0,0.0,0.0,0.0,0.39725669547173537
+Joint Statement; enclosure of Command Structure for the BiH Army and the HVO,0.0,0.0,0.0,0.0,0.15905199794653932
+Order (Establishment of local commissions),0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement,0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement for the Demilitarization of Srebrenica,0.0,0.0,0.0,0.0,0.3342091554503584
+,0.0,0.0,0.0,1.0,0.09199684253914414
+,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.26093709055304504
+Agreement,0.0,0.0,0.0,0.0,0.39725669547173537
+"General Headquarters of the Army of Bosnia and Herzegovina (ABiH) and General Headquarters of the Croatian Defense Council (HVO): a signed agreement between the head of GHQ of the ABiH and head of GHQ of HVO
+",0.0,0.0,0.0,0.0,0.27657629429175
+Agreement on an urgent cease-fire between the HVO and the BH Army in Central Bosnia,0.0,0.0,0.0,0.0,0.15905199794653932
+Record of agreements processes leading to peace between the HVO and BiH in Gornji Vakuf,0.0,0.0,0.0,1.0,0.39725669547173537
+Agreement on the Separation of Forces in the area of Sarajevo Airport (collection of Sarajevo agreements),0.0,0.0,0.0,0.0,0.26093709055304504
+,0.0,0.0,0.0,0.0,0.27657629429175
+Conclusions,0.0,0.0,0.0,1.0,0.39725669547173537
+,0.0,0.0,0.0,1.0,0.09199684253914414
+Announcement (Ceasefire for Vitez municipality),0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.09199684253914414
+,0.0,0.0,0.0,0.0,0.26093709055304504
+Agreement on Establishing a Ceasefire and Cessation of Hostilities,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.39725669547173537
+Addendum to the Agreement on the Friendship and Cooperation between the Republic of Bosnia and Herzegovina and the Republic of Croatia ,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,1.0,0.39725669547173537
+"Confidence, Security-building and Verification (The London Conference)",0.0,0.0,0.0,0.0,0.39725669547173537
+"Conclusions on Implementation of Existing Sanctions, International Conference on Yugoslavia (The London Conference)",0.0,0.0,0.0,0.0,0.16998926767781447
+,0.0,0.0,0.0,0.0,0.27657629429175
+,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.3342091554503584
+,0.0,0.0,0.0,0.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement on Friendship and Cooperation between the Republic of Bosnia and Herzegovina and the Republic of Croatia,0.0,0.0,0.0,0.0,0.27657629429175
+"Text of the agreement signed at London on 17 July 1992 by Mr. Boban, Dr. Karadzic and Dr. Silajdzic",0.0,0.0,0.0,0.0,0.39725669547173537
+Joint Statement,0.0,0.0,0.0,1.0,0.39725669547173537
+,0.0,0.0,0.0,1.0,0.39725669547173537
+Joint Statement,0.0,0.0,0.0,0.0,0.09199684253914414
+,0.0,0.0,0.0,1.0,0.15905199794653932
+,0.0,0.0,0.0,0.0,0.39725669547173537
+Agreement by the Serbian Republic of Bosnia and Hercegovina with regard to the opening of Sarajevo airport,0.0,0.0,0.0,0.0,0.15905199794653932
+Agreement by the Republic of Bosnia Herzegovina with regard to the Concentration of all Heavy Weapons in and Around Sarajevo,0.0,0.0,0.0,0.0,0.09199684253914414
+,0.0,0.0,0.0,0.0,0.15905199794653932
+Sporazum o prekidu vatre u Bosni i Hercegovini,0.0,0.0,0.0,1.0,0.39725669547173537
+"Agreement on removal of Commands, Units and Institutions from Garrisons-Barracks of Zenica, Travnik, Konjic and Barracks and Institutions in Sarajevo ",0.0,0.0,0.0,0.0,0.3342091554503584
+The Public Announcement (Graz Agreement),0.0,0.0,0.0,0.0,0.15905199794653932
+Ceasefire Agreement,0.0,0.0,0.0,0.0,0.1349359718792234
+Protocol (Ilidza Ceasefire),0.0,0.0,0.0,0.0,0.39725669547173537
+Bosnia-Herzegovina Ceasefire Agreement,0.0,0.0,0.0,0.0,0.39725669547173537
+,0.0,0.0,0.0,0.0,0.09199684253914414
+,0.0,0.0,0.0,0.0,0.26093709055304504
+Déclaration du Directoire Politique du processus de paix au Burundi sur le processus de mise en oeuvre des décisions conjointes prises à Pretoria,0.0,0.0,0.0,1.0,0.15905199794653932
+Déclaration du Sommet des chefs d'Etats et de gouvernements de l'initiative régionale sur le processus de Paix au Burundi,0.0,0.0,0.0,0.0,0.3342091554503584
+Déclaration conjointe du Palipehutu FNL et du gouvernement du Burundi relative à la cessation des hostilités,0.0,0.0,0.0,0.0,0.15905199794653932
+Comprehensive Ceasefire Agreement between the Government of the Republic of Burundi and the Palipehutu - FNL,0.0,0.0,0.0,0.0,0.39725669547173537
+"Dar-es-Salaam Agreement on Principles Towards lasting Peace, Security, and Stability in Burundi",0.0,0.0,0.0,1.0,0.39725669547173537
+Constitution of 18 March 2005,0.0,0.0,0.0,0.0,0.26093709055304504
+Accord de Partage de Pouvoir au Burundi,0.0,0.0,0.0,1.0,0.09199684253914414
+Loi du 21 novembre 2003 portant amendement à la Constitution  de Transition du 28 octobre 2001,0.0,0.0,0.0,0.0,0.39725669547173537
+The Global Ceasefire Agreement,0.0,0.0,0.0,0.0,0.15905199794653932
+Forces Technical Agreement between the Transitional Government of the Republic of Burundi and the CNDD-FDD,0.0,0.0,0.0,0.0,0.39725669547173537
+"The Protocol on Outstanding Issues of Political, Defence and Security Power Sharing in Burundi ('Pretoria II Protocol')",0.0,0.0,0.0,0.0,0.09199684253914414
+"The Pretoria Protocol on Political, Defence and Security Power Sharing in Burundi",,,,,
+Joint Declaration of Agreement between the Government of Burundi and the CNDD-FDD (The Pretorial Protocol),,,,,
+Ceasefire Agreement between the Transitional Government of Burundi and the Conseil National pour la Defence de la Democratie-Forces pour la Defense de la Democratie,,,,,
+Constitution de transition du 28 octobre 2001,,,,,
+Arusha Peace and Reconciliation Agreement for Burundi,,,,,
+"Accord between the Cambodian People's Party (CPP) and the National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia (FUNCINPEC)",,,,,
+"Agreement Concerning the Sovereignty, Independence, Territorial Integrity and Inviolability, Neutrality and National Unity of Cambodia (Framework for a Comprehensive Political Settlement of the Cambodia Conflict or Paris Accords)",,,,,
+Agreement on a Comprehensive Political Settlement of the Cambodia Conflict (Framework for a Comprehensive Political Settlement of the Cambodia Conflict or Paris Accords),,,,,
+Final Act of the Paris Conference on Cambodia (Framework for a Comprehensive Political Settlement of the Cambodia Conflict or Paris Accords),,,,,
+Declaration on the Rehabilitation and Reconstruction of Cambodia (Framework for a Comprehensive Political Settlement of the Cambodia Conflict or Paris Accords),,,,,
+Agreement between the Republic of Cameroon and the Federal Republic of Nigeria concerning the Modalities of Withdrawal and Transfer of Authority in the Bakassi Peninsula,,,,,
+Joint Communiqué Establishing the Cameroon-Nigeria Mixed Commission (CNMC),,,,,
+"Pacte Républicain pour la paix, la réconciliation nationale et la reconstruction en la République Centrafricaine",,,,,
+Accord de cessation des hostilités en République Centrafricaine (Brazzaville Agreement on Cessation of Hostilities),,,,,
+Transitional National Charter (Interim Constitution),,,,,
+Accord politique de Libreville sur la résolution de la crise politico-sécuritaire en République Centrafricaine,,,,,
+Accord de cessez-le-feu entre le Gouvernement de la République Centrafricaine et la Coalition Seleka,,,,,
+Acte d’Adhésion de la Convention des Patriotes pour la Justice et la Paix (CPJP) à l’Accord de Paix Global de Libreville,,,,,
+Accord de Cessez-le-Feu Entre d’une part L’Union des Forces Democratiques pour le Rassemblement (UFDR) et d’autre part la Convention des Patriotes pour la Justice et la Paix (CPJP),,,,,
+Accord de cessez le feu et de paix entre le Gouvernement de la République Centrafricaine et le mouvement politique et militaire Centrafricain APRD,,,,,
+Accord de Paix de Birao,,,,,
+Accord de Paix entre le Gouvernement de la République Centrafricaine et les Mouvements Politico-Militaires ci-après designés: FDPC et UFDR (Syrte Agreement),,,,,
+National Reconciliation Pact (Bangui National Reconciliation Conference),,,,,
+"Mandate established by the Countries designated by the 19th Summit of France and Africa, for the inter-African Supervision Mission for the Bangui Agreements",,,,,
+"Declaration of Heads of State, Bangui (Bangui Accords)",,,,,
+"Declaration on the End of the Rebellious Action, Bangui (Bangui Accords)",,,,,
+Accord de paix entre le gouvernement de la République du Tchad et le Mouvement National (MN),,,,,
+"Accord de paix entre le gouvernement du Tchad and les mouvements ci-après: UFDD, RFC, CNT, UFDDF (Accord de Syrte)",,,,,
+Accord politique en vue du renforcement du processus démocratique,,,,,
+Peace Agreement between the Government of Chad and the Movement pur la démocratie et la justice au Tchad (MDJT),,,,,
+Peace Agreement between the Government of the Republic of Chad and the Movement for Democracy and justice in Chad (MDJT) (Tripoli Agreement),,,,,
+Agreement between the Great Socialist People's Libyan Arab Jamahariya and the Rep of Chad concerning the practical modalitities for the implementation of the Judgment delivered by the International Court of Justice on 3 February 1994,,,,,
+Accord de N'Djamena sur la normalisation des relations entre le Tchad et le Soudan,,,,,
+Doha Agreement,,,,,
+Dakar Agreement between Chad and Sudan signed in Dakar (Senegal),,,,,
+Statement of the Four-party Peace Summit,,,,,
+Tripoli Agreement to Settle the Dispute between the Republic of Chad and the Republic of Sudan,,,,,
+Inter-State Border Defence Cooperation Agreement between India and China,,,,,
+Agreement on the Establishment of a Working Mechanism for Consultation and Coordination on India-China Border Affairs,,,,,
+Protocol between the Government of the Republic of India and the Government of the People's Republic of China on Modalities for the Implementation of Confidence-Building Measures in the Military Field Along the Line of Actual Control in the India-China,,,,,
+"Agreement between Russian Federation, Republic of Kazakstan, Kyrgyz Republic, Republic of Tajikstan and People's Republic of China on Confidence Building in the Military Field in the Border Area",,,,,
+"The agreement between the Russian Federation, Republic of Kazakhstan, and the People's Republic of China on determining the junction point of the international borders of the three states",,,,,
+"Protocol between the Government of the Russian Federation, the Government of Mongolia, and the Government of the People's Republic of China, describing the eastern junction point of the borders of the three states",,,,,
+"Protocol between the Government of the Russian Federation, the Government of Mongolia, and the Government of the People's Republic of China, describing the western junction point of the borders of the three states
+",,,,,
+"Agreement between the Government of the Russian Federation, the Government of the People's Republic of China, and the Government of Mongolia on the determination of the points of junction of the national borders of the three states",,,,,
+Supplementary Agreement between the People 's Republic of China and the Russian Federation on the Eastern Section of the Sino-Russian Border,,,,,
+Treaty of Good-Neighborliness and Friendly Cooperation Between the People's Republic of China and the Russian Federation,,,,,
+"Joint Declaration by the People’s Republic of China and the
+Russian Federation, adopted at Beijing on 25 April 1996",,,,,
+"Agreement on the Western Section of the Boundary Between the PRC and the Russian Federation Signed by Foreign Ministers – Andrei Kozyrev and Qian Qichen
+",,,,,
+Agreement on the Eastern Section of the Boundary between the Union of Soviet Socialist Republics and the People's Republic of China (1991 Sino-Soviet Border Agreement),,,,,
+"Agreement on the Victims of Conflict, 'Comprehensive System for Truth, Justice, Reparation and Non-repitition, including the Special Jurisdiction for Peace; and Commitment on Human Rights",,,,,
+"Joint Communiqué #62, Havana ",,,,,
+Joint Communiqué # 60 regarding the Agreement of the Creation of a Special Jurisdiction for Peace,,,,,
+Joint Report of the Dialogue Table between the Government and the Revolutionary Armed Forces of Colombia - People's Army ,,,,,
+"Joint Communiqué #53, Havana ",,,,,
+"Joint Communiqué #52, Havana ",,,,,
+"Joint Communiqué, Havana, August 5, 2014",,,,,
+Hacia un Nuevo Campo Colombiano: Reforma Rural Integral,,,,,
+Solución al Problema de las Drogas Ilícitas,,,,,
+Participacíon política: Apertura democrática para construir la paz,,,,,
+Acuerdo entre el Gobierno y el Ejercito Revolucionario Guevarista (ERG),,,,,
+Acuerdo entre Gobierno Nacional y las Autodefensas unidas de Colombia para la zona de Ubicación en Tierralta (Acuerdo de Fátima),,,,,
+Acuerdo entre el Gobierno Nacional y las FARC-EP (Acuerdo Humanitario),,,,,
+"Reanudación del Proceso, se crea Comisión Auxiliar de Casos Especiales, Comunicado No. 25, Mesa Nacional de Diálogos y Negociación",,,,,
+"Acuerdo sobre Reglamento para la Verificacion de la Zona de Encuentro, Gobierno Nacional-ELN",,,,,
+"Declaración de Tregua Unilateral Durante Temporada de Fin den Ano, FARC-EP",,,,,
+"A Pesar de las Dificultades Logramos Históricos Avances, Communicado no. 6 de la Mesa de Dialogos y Negociacion",,,,,
+Comunicado del Presidente Andres Pastrana y Manuel Marulanda de las FARC (Acuerdo de Caquetania),,,,,
+"Acuerdo Final: Gobierno  Nacional, Gobernación de Antioquia y Alcaldía de Medellín con el Movimiento Independiente Revolucionario-Comandos Armados MIR-COAR",,,,,
+Acuerdo para la Liberación de los Delegados de la OEA / Agreement for the Liberation of detained OAS Delegates,,,,,
+"Acuerdo de Remolinos del Caguán: Joaquín Gómez Fabián Ramírez Comandantes del Bloque Sur de las FARC-EP, Delegados del Gobierno José Noé Ríos y Carlos Vicente de Roux, Delegados de la Cruz Roja y Monseñor Luis Augusto Castro",,,,,
+"Acuerdo Político Final, Gobierno Nacional - Frente Francisco Garnica de la Coordinadora Guerrillera",,,,,
+"Acuerdo para la Paz y la Convivencia Ciudadana, Gobierno Nacional, Departamental y Municipal y Melicias Populares del Pueblo y para el Pueblo, Milicias Independientes, de Valle de Aburra y Milicias Metropolitanas, de la Ciudad de Medellin",,,,,
+"Acuerdo Politico Final, Gobierno Nacional y Corriente de Renovacion Socialista",,,,,
+"Acuerdo General entre el Gobierno y la Corriente de Renovación Socialista, Flor del Monte",,,,,
+"Acuerdo entre los Comandos Ernesto Rojas y el Gobierno Nacional, Protocolo de Adhesion al Acuerdo de Paz del EPL",,,,,
+"Comunicado de las Comisiones Negociadoras del Gobierno y la CGSB, Reinicio del Diálogo en México",,,,,
+"Comunicado Conjunto de las Comisiones Negociadoras del Gobierno y la CGSB, Aplazamiento de las Conversaciones",,,,,
+"Comunicado Conjunto, Gobierno-CGSB: Acuerdo de Garantías para Traslados de la Comisión Negociadora CGSB, Santafé de Bogotá-Caracas",,,,,
+Political Constitution of Colombia,,,,,
+"Acuerdo Final entre el Gobierno Nacional y el Movimieto Armado Quintin Lame, Campamento de Pueblo Nuevo Caldono-Cauca",,,,,
+"Acuerdo entre la Consejería de Paz y la Comisión Negociadora del MAQL, Mesa de Togoima, Páez, Cauca",,,,,
+Acuerdo Final entre el Gobierno Nacional y el Ejército Popular de Liberación – EPL,,,,,
+Acuerdo entre el Gobierno Nacional y el Ejército Popular de Liberación,,,,,
+"Declaración del Gobierno Nacional y el PCC (ML) y el EPL, Juan José, Córdoba",,,,,
+"Acuerdo Final entre el Gobierno Nacional y el Partido Revolucionario de los Trabajadores, don Gabriel, Ovejas, Sucre",,,,,
+"Acta Interna del Acuerdo entre el Gobierno y el PRT, Ovejas, Sucre",,,,,
+Acta de Compromiso entre el Gobierno Nacional y el EPL,,,,,
+"Acuerdo General entre el Gobierno Nacional y el Partido Revolucionario de los Trabajadores, Don Gabriel, Ovejas, Sucre",,,,,
+"Acuerdo Gobierno Nacional - Ejécito Popular de Liberacion, Pueblo Nuevo y Juan José",,,,,
+"Political Agreement between the National Government, the Political Parties, M-19 and the Catholic Church as Moral and Spiritual Guardian of the Process
+
+Spanish: Acuerdo Político entre el Gobierno Nacional, los Partidos Políticos, el M-19, y la Iglesia Católica en Calidad de Tutora Moral y Espiritual del Proceso",,,,,
+Declaración de Principios y Mecanismo de Cooperación entre Colombia y Venezuela,,,,,
+Accord pour la gestion de la période intérimaire,,,,,
+Agreement on the Transitional Arrangements in the Comoros (Maroni Agreement),,,,,
+Comoros's Constitution of 2001,,,,,
+Communiqué Commun des Délégation d’Anjouan et de Mohéli de la Sous Commission de Lois,,,,,
+General Agreement on National Reconciliation (Fomboni Agreement),,,,,
+Accords d'Antananarivo,,,,,
+Montelimar Declaration,,,,,
+Fourth supplementary agreement to the Ouagadougou Political Agreement,,,,,
+Deuxième Accord Complémentaire à l'Accord Politique de Ouagadougou,,,,,
+Troisième Accord Complémentaire à l'Accord Politique de Ouagadougou,,,,,
+Premier accord complémentaire à l’accord politique de Ouagadougou,,,,,
+Ouagadougou Political Agreement,,,,,
+UN Security Council Resolution 1721,,,,,
+UN Security Council Resolution 1633,,,,,
+Declaration on the Implementation of the Pretoria Agreement on the Peace Process in the Côte d'Ivoire ('Pretoria II'),,,,,
+Pretoria Agreement on the Peace Process in Côte d'Ivoire ('Pretoria I'),,,,,
+Accra III Agreement on Cote d'Ivoire,,,,,
+Joint Declaration of the Defence and Security Forces of Côte D'Ivoire and the armed Forces of the Forces Nouvelles,,,,,
+Accord de Cessez-le-Feu,,,,,
+Accord Accra II (Ghana) sur la Crise en Côte d'Ivoire,,,,,
+Conclusions of the Conference of Heads of State on Côte d'Ivoire (Paris Conclusions),,,,,
+Linas-Marcoussis Agreement,,,,,
+"Ceasefire Agreement between the Government of Côte d'Ivoire, the Mouvement Populaire Ivoirien du Grand Ouest (MPIGO) and the Mouvement pour la Justice et la Paix (MSP)",,,,,
+Accord de Cessation des Hostilités,,,,,
+"Programme of the Government of the Republic of Croatia for the Establishment of Trust, Accelerated Return, and Normalization of Living Conditions in the War-affected Regions of the Republic of Croatia",,,,,
+Affidavit,,,,,
+Agreement on the Normalization of Relations,,,,,
+UN Security Council Resolution 1037,,,,,
+UN Security Council Resolution 1023,,,,,
+"Basic Agreement on the Region of Eastern Slavonia, Baranja, and Western Sirmium ('The Erdut Agreement')",,,,,
+Agreement on the Surrender of the 21st Corps ,,,,,
+Agreement between the Government of the Republic of Croatia and the United Nations Peace Forces (UNPF) - United Nations Confidence Restoration Operation (UNCRO) on temporary measures in the areas formerly known as 'Sector North' and 'Sector South',,,,,
+Agreement (Economic Agreement),,,,,
+Ceasefire Agreement of 29 March 1994,,,,,
+Agreement on UNPROFOR Control of 'Medak Pocket',,,,,
+Complementary agreement to the agreement of 15-16 July 1993 ,,,,,
+Agreement (Erdut/Zagreb),,,,,
+Agreement in Implementation of Security Council Resolution 802 (1993),,,,,
+Daruvar Agreement,,,,,
+Joint Declaration made at Geneva on 20 October 1992 by the President of Croatia and the President of Yugoslavia (Geneva),,,,,
+Implementing Accord,,,,,
+Joint Statement (Zagreb),,,,,
+Agreement (Dubrovnik ceasefire),,,,,
+Cease-fire Agreement of 23 November 1991,,,,,
+Agreement between the official delegates of the Republic of Croatia and the JNA,,,,,
+Ceasefire Agreement (The Hague) ,,,,,
+Agreement between the JNA and the Representatives of Ilok,,,,,
+Memorandum of Agreement,,,,,
+JNA - Croatia Cease-fire Agreement of September 22,,,,,
+Joint Statement (Igalo Ceasefire Agreement) ,,,,,
+Memorandum of Understanding on the Extension of Monitoring Activities of the Monitor Mission to Yugoslavia,,,,,
+Cease-fire Agreement,,,,,
+Outcome Documents from the Conclusion of the Kampala Dialogue between the Government of the Democratic Republic of the Congo and the M23,,,,,
+"Agenda for the Dialogue between the Government of the DRC and the M23 on the situation in Eastern Congo
+",,,,,
+Peace Agreement between the Government and Le Congres National pour la Défense du Peuple (CNDP),,,,,
+"Ordonnance N° 08/008 du 02 Fev 2008 portant organisation et fonctionnement du programme national de sécurisation, pacification, stabilisation et reconstruction des provinces du Nord-Kivu et du Sud-Kivu, dénommé « Programme Amani »",,,,,
+"Acte d'Engagement, Nord Kivu",,,,,
+"Acte d'Engagement, Sud Kivu",,,,,
+"Accord Cadre pour la Paix en Ituri entre le Gouvernment de la Republique Democratique du Congo et les Groupes Armes de l'Ituri (MRC, FNI, et FRPI)",,,,,
+"Dispositions Pratiques Additives a L'Accord Signé a Kambutso le 26 Juillet 2006, entre le Gouvernement de la RDC et le MRC, en presence de la MONUC",,,,,
+Accord entre le CoRDC et le Mouvement Revolutionnaire Congolais (MRC) en Presence de la MONUC,,,,,
+Intercongolese Negotiations: The Final Act ('The Sun City Agreement'),,,,,
+Draft Constitution of the Transition,,,,,
+"Mémorandum sur le Mécanisme pour la formation d'une Armée Nationale, Restructurée et Intégrée",,,,,
+Global and Inclusive Agreement on Transition in the Democratic Republic of Congo ('The Pretoria Agreement'),,,,,
+Accord Politique pour la gestion consensuelle de la transition en République Démocratique du Congo,,,,,
+Ceasefire Agreement (Lusaka Agreement),,,,,
+Peace Agreement Between the Governments of the Republic of Rwanda and the Democratic Republic of the Congo on the Withdrawal of the Rwandan Troops from the Territory of the Democratic Republic of the Congo and the Dismantling of the Ex-FAR and Interahamwe Forces in the Democratic Republic of the Congo (DRC),,,,,
+Programme of Implementation of the Peace Agreement Between the Governments of the Republic of Rwanda and the Democratic Republic of the Congo on the Withdrawal of the Rwandan Troops from the Territory of the Democratic Republic of the Congo and the Dismantling of the Ex-FAR and Interahamwe Forces in the Democratic Republic of the Congo (DRC) (and Implementation Agreement),,,,,
+Joint communiqué of the Government of the Democratic Republic of the Congo and the Government of the Republic of Rwanda on a common approach to ending the threat posted to peace and stability in both countries and the Great Lakes region,,,,,
+"Amendement de l’accord signé entre la RDC et l’Ouganda à Luanda, Angola, le 06/09/2002",,,,,
+Communiqué conjoint du sommet consultatif entre les chefs d’Etat S.E. Joseph Kabila de la RDC et S.E. Yoweri Kaguta Museveni de l’Ouganda,,,,,
+"Agreement Between the Governments of the Democratic Republic of the Congo and the Republic of Uganda on Withdrawal of Ugandan Troops from the Democratic Republic of the Congo, Cooperation and Normalisation of Relations Between the Two Countries (Luanda Agreement)",,,,,
+Accord de Réforme et de Concorde Civile,,,,,
+Accord cadre de réforme et de concorde civile,,,,,
+Accord de Paix et de reconciliation nationale,,,,,
+UN Security Council Resolution 1246,,,,,
+UN Security Council Resolution 1236,,,,,
+Agreement Regarding the Modalities for the Popular Consultation of the East Timorese Through a Direct Ballot,,,,,
+"Acuerdo de Bases respecto de la rehabilitación o reconstrucción de la bocatoma y obras conexas del Canal de Zarumilla Grupo de Trabajo sobre el Canal de Zarumilla
+
+  
+",,,,,
+Intercambio de Notas sobre los aspectos vinculados a la navegación en los sectores de los Cortes de los ríos y del Río Napo,,,,,
+Acta Presidencial de Brasilia,,,,,
+El Tratado de Comercio y Navegación,,,,,
+"Acuerdo Amplio Peruano Ecuatoriano de Integración Fronteriza, Desarrollo y Vecindad",,,,,
+"Convenio de Aceleración y Profundización
+del Libre Comercio entre el Perú y el Ecuador",,,,,
+Intercambio de Notas sobre el Acuerdo de Bases respecto de la rehabilitación o reconstrucción de la bocatoma y obras conexas del Canal de Zarumilla,,,,,
+"Propuesta definitiva de los Países Garantes
+sobre la fijación en el terreno de la
+frontera terrestre común
+",,,,,
+Intercambio de Notas sobre el Acuerdo de Constitución de la Comisión Binacional Peruano-Ecuatoriana sobre Medidas de Confianza Mutua y de Seguridad ,,,,,
+Bendición Papal,,,,,
+"Reglamento para la administración del Canal de Zarumilla y la utilización de sus aguas
+
+",,,,,
+"Acuerdo de Constitución de la Comisión Binacional Peruano—Ecuatoriana sobre Medidas de Confianza Mutua y de Seguridad
+
+
+",,,,,
+Declaracion de Montevideo,,,,,
+Declaracion de Itamaraty,,,,,
+Joint Declaration Signed on 4 October 1994 by the Representatives of the Govt of El Salvador and of the Frente Farabundo Marti para la Liberacion Nacional (FMLN),,,,,
+Timetable for the Implementation of the Most Important Outstanding Agreements,,,,,
+"Agreement of the Tripartite Meeting
+
+Spanish: Acuerdo de la Reunión Tripartita",,,,,
+"Acuerdo Complementario del 5 de Febrero de 1993
+
+",,,,,
+Acuerdo Complementario del 22 de Diciembre de 1992,,,,,
+Chapultepec Agreement,,,,,
+New York Act II,,,,,
+New York Act,,,,,
+New York Agreement,,,,,
+Understandings Regarding the New York Agreement ('The Compressed Negotiations'),,,,,
+Mexico Agreements,,,,,
+Agreement on Human Rights,,,,,
+Agreement between the Government of the State of Eritrea and the Government of the Federal Democratic Republic of Ethiopia (Algiers Agreement),,,,,
+Agreement on Cessation of Hostilities between the Government of the Federal Democratic Republic of Ethiopia and the Government of the State of Eritrea,,,,,
+Technical Arrangements for the Implementation of the OAU Framework Agreement,,,,,
+Modalities for the Implementation of the OAU Framework Agreement on the Settlement of the Dispute between Ethiopia and Eritrea,,,,,
+"OAU High Level Delegation Proposals for a Framework Agreement for a Peaceful Settlement of the Dispute between Eritrea and Ethiopia
+
+",,,,,
+Transitional Period Charter of Ethiopia,,,,,
+Agreement between the Government of the Federal Democratic Republic of Ethiopia and the Ogaden Liberation Front (ONLF) on the Termination of the State of Insurgency,,,,,
+The United Western Somali Liberation Front (UWSLF) on the Termination of the State of Insurgency,,,,,
+"Treaty on the Final Settlement with Respect to Germany (four plus two agreement)
+",,,,,
+Accord de Paris,,,,,
+Implementation of the Plan of 12 August 2008 (The Medvedev-Sarkozy-Saakashvili plan),,,,,
+Protocol of the High Level Meeting in Gali on Security Issues,,,,,
+Protocol of the Gali Meeting on Security Matters,,,,,
+Gali Protocol of 8th October 2003 on reducing the tension and improving the mechanisms for security in the conflict zone,,,,,
+"Protocol, The Sukhumi Meeting between the Geogian and Abkhaz Sides on the Implementation of the Protocol of 24 September 1998 and Other Measures Aimed at Stabilization of the Situation in the Zones of Security and Limited Weaponry ",,,,,
+Protocol of the Meeting of Georgian and Abkhaz Sides,,,,,
+Protocol of the fifth session of the Coordinating Council of the Georgian and Abkhaz sides,,,,,
+"Protocol on the ceasefire, separation of armed formations and guarantees on the inadmissibility of forcible activities ('Gagra Protocol')",,,,,
+"Decision of 28 April 1998 on additional measures for the settlement of the conflict in Abkhazia, Georgia, The Council of Heads of State of the Commonwealth of Independent State",,,,,
+Concluding Statement on the Outcome of the Resumed Meeting between the Georgian and Abkhaz parties,,,,,
+Security Council Resolution 937 (1994) on Expansion and Extension of the Mandate of the UN Observer Mission in Georgia and its Cooperation with the CIS Peacekeeping Force,,,,,
+Agreement on a Ceasefire and Separation of Forces,,,,,
+Memorandum of understanding between the Georgian and Abkhaz sides at the negotiations held in Geneva,,,,,
+Agreement on Ceasefire and the mechanisms of its implementation in Abkhazia,,,,,
+Agreement on a Ceasefire in Abkhazia and Arrangements to Monitor its Observance  (Sochi Agreement),,,,,
+Protocol of Consultations on the Regulation of the Conflict between Georgia and Abkhazia,,,,,
+Minutes of the Cease-fire,,,,,
+The Provisional Mechanism for the Prevention and Settlement of Disputes - Technical Arrangements between the Ministry of Internal Affairs of Georgia and the Head of the Mission of the European Union Monitoring Mission,,,,,
+Agreement between the European Union and Georgia on the status of the European Monitoring Mission in Georgia ,,,,,
+Protocol of the Meeting between the Georgian and Abkhaz Sides,,,,,
+Protocol of the Meeting of Georgian and Abkhaz Sides,,,,,
+Protocol of the Meeting between the Georgian and Abkhaz Sides on the Issue of Stabilization of the Situation in the Zone of Conflict,,,,,
+Protocol of the Gali Meeting between the Georgian and Abkhaz Sides,,,,,
+Protocol of the Gali Meeting between the Georgian and Abkhaz Sides on the Issues of Stablization of the Situation in the Security Zone,,,,,
+Joint Statement of the Russian Federation and Georgia,,,,,
+Quadripartite Agreement on Voluntary Return of Refugees and Displaced Persons,,,,,
+Final Document of the Moscow Meeting (Moscow Ceasefire),,,,,
+Protocol #36 of Extraordinary Meeting of the Joint Control Commission (JCC) on Georgian-Ossetian Conflict Resolution,,,,,
+Agreement between the Government of Georgia and the Government of the Russian Federation on Cooperation in Restoration of Economy in the Georgian-Ossetian Conflict Zone and Return of Refugees,,,,,
+Protocol ‘On the activities of the sides’ Law Enforcement Bodies against Criminality in the Zone of the Georgian-Ossetian Conflict,,,,,
+Protocol on Interaction of Law-Enforcement Bodies in the Zone of the Georgian-Ossetian Conflict,,,,,
+Agreement on Further Development of Georgian-Ossetian Peaceful Settlement Process and on Joint Control Commission,,,,,
+"Protocol of Understanding between the Government of the Republic of Georgia and the Government of the Russian Federation on Economic Restoration of the Regions Located in the Zone of the Georgian-Ossetian Conflict, Signed on 14 September 1993",,,,,
+Agreement between the Government of the Russian Federation and the Government of the Republic of Georgia on Restoration of Economy in the Zone of the Georgian-Ossetian Conflict,,,,,
+Protocol of the Meeting of Representatives of the Parties on the Implementation of the Agreement on Principles of Settlement of the Georgian-Ossetian Conflict,,,,,
+Agreement on Principles of Settlement of the Georgian-Ossetian Conflict (Sochi Agreement),,,,,
+Agreement on a Firm and Lasting Peace,,,,,
+"Agreement on the Implementation, Compliance and Verification Timetable for the Peace Agreements",,,,,
+Agreement on the Basis for the Legal Integration of the Unidad Revolucionaria Nacional Guatemalteca,,,,,
+Agreement on Constitutional Reforms and the Electoral Regime (Stockholm Agreement),,,,,
+Agreement on a Definitive Ceasefire,,,,,
+Agreement on the Strengthening of Civilian Power and on the Role of the Armed Forces in a Democratic Society,,,,,
+Agreement on the Social and Economic Aspects and Agrarian Situation,,,,,
+Agreement on the Identity and Rights of Indigenous Peoples,,,,,
+Agreement to establish Commission to clarify past human rights violations and acts of violence that caused the Guatemalan population to suffer,,,,,
+Agreement on Resettlement of the Population Groups uprooted by the Armed Conflict,,,,,
+Comprehensive Agreement on Human Rights,,,,,
+Framework Agreement on Democratization in the Search for Peace by Political Means ('The Queretaro Agreement'),,,,,
+El Escorial Agreement,,,,,
+Ouagadougou Joint Declaration,,,,,
+Final Communique of the Lome Meeting on the Peace Process in Guinea-Bissau,,,,,
+Additional Protocol to the Abuja Accord of 1 November 1998 Concerning the Formation of the Government of National Unity of Guinea-Bissau,,,,,
+Agreement between the Government of Guinea Bissau and the Self-proclaimed military junta ('Abuja Accord'),,,,,
+Ceasefire Agreement in Guinea-Bissau,,,,,
+Final communiqué of the joint Economic Community of West African States (ECOWAS)/Community of Portuguese-speaking Countries (CPLP) consultative meeting on the situation in Guinea-Bissau,,,,,
+"Agreement Signed by Jimmy Carter and Emile Jonassaint, the Military-Appointed President of Haiti, in Port-au-Prince, on 18 September 1994",,,,,
+Governors Island Accord,,,,,
+Protocol of agreement between President Jean-Bertrand Aristide and Prime Minister- Designate René Théodore under the auspices of the Organization of American States (OAS),,,,,
+Protocol between President Jean-Bertrand Aristide and the parliamentary negotiating commission to find a definitive solution to the Haitian crisis,,,,,
+Decreto ejecutivo para la creación de la comisión de la verdad y reconciliación,,,,,
+Acuerdo de San José para la reconciliación nacional y el fortalecimiento de la democracia en Honduras,,,,,
+Memorandum of Understanding,,,,,
+Memorandum of Settlement on Bodoland Territorial Council,,,,,
+Memorandum of Settlement ('Bodo Accord'),,,,,
+Memorandum of Agreement on the Gorkha Territorial Administration,,,,,
+Memorandum of Settlement,,,,,
+The Darjeeling Gorkha Hill Council (Amendment) Act 1994,,,,,
+Extension of Suspension of Operations (SoO) with United People's Front (UPF),,,,,
+Memorandum of Understanding Between the Government of Mizoram and the Bru National Liberation Front (BNLF),,,,,
+"Memorandum of Settlement Between The Government of Mizoram and the Hmar People’s Convention (HPC)
+",,,,,
+"Joint Communique issued by T.Muivah, general secretary of the NSCN (I-M) and K.Padmanabhaiah, Representative of the Government of India",,,,,
+Extension of Ceasefire with the NSCN-IM,,,,,
+NSCN-IM's Announcement of Ceasefire Agreement with Government of India,,,,,
+Agreement between the Republic of India and the Islamic Republic of Pakistan on Reducing the Risk from Accidents Relating to Nuclear Weapons,,,,,
+Memorandum of Understanding,,,,,
+Agreement between the Republic of India and the Islamic Republic of Pakistan on Pre-notification of Flight Testing of Ballistic Missiles,,,,,
+"Joint Statement, issued in New York as on 23 September 1998",,,,,
+Agreement between India and Pakistan on Prevention of Air Space Violations and for Permitting over flights and landings by military aircraft,,,,,
+"Agreement between India and Pakistan on Advance Notice of Military Exercises, Manoeuvers and Troop Movements",,,,,
+Memorandum of Settlement,,,,,
+Memorandum of Understanding between the Goverment of the Republic of Indonesia and the Free Aceh Movement (Helsinki MOU),,,,,
+Status of Mission Agreement (SOMA) on the Establishment and Management of the HDC Aceh Monitoring Mission (HAMM),,,,,
+Cessation of Hostilities Framework Agreement between the Government of the Republic of Indonesia and the Free Aceh Movement,,,,,
+Evaluation of the Conduct of Cessation of Violence,,,,,
+4th Commander to Commander Agreement: The Follow-Up of Security Arrangements in Aceh,,,,,
+3rd Commander to Commander Agreement: The Third Term Evaluation Results of the Cessation of Violence in Aceh,,,,,
+2nd Commander to Commander Agreement: Results of 10-day Evaluation Concerning Agreement Implementation on Cessation of Violence in Aceh,,,,,
+Agreement Reached by both Field Commanders of the RI and the GAM,,,,,
+Report on the Meeting between the Aceh Free Movement (GAM) and the Republic of Indonesia (RI),,,,,
+Joint Understanding on Humanitarian Pause for Aceh,,,,,
+The Moluccas Agreement in Malino ('Malino II'),,,,,
+Agreement Between the Republic of Indonesia and the Portuguese Republic on the Question of East Timor,,,,,
+Constitution of Iraq,,,,,
+"Final Communiqué of International Ministerial Meeting of the Neighboring Countries of Iraq, The G8 and China",,,,,
+UN Security Council Resolution 1546,,,,,
+Law of Administration for the State of Iraq for the Transitional Period,,,,,
+Erbil Agreement,,,,,
+UN Security Council Resolution 687,,,,,
+Memorandum of Understanding between the United Nations and the Republic of Iraq,,,,,
+Memorandum of Understanding between the Secretariat of the United Nations and the Government of Iraq on the Implementation of UN Security Council Resolution 986,,,,,
+Agreement between the United States of America and the Republic of Iraq on the withdrawal of United States Forces from Iraq and the Organization of Their Activities during Their Temporary Presence in Iraq,,,,,
+A Fresh Start: The Stormont Agreement and Implementation Plan,,,,,
+Stormont House Agreement Financial Annex,,,,,
+Stormont House Agreement,,,,,
+Hillsborough Castle Agreement,,,,,
+St Andrew's Agreement,,,,,
+Joint Strategy for the Restoration of the Assembly and Executive,,,,,
+Proposals for a Comprehensive Agreement,,,,,
+Proposals in Relation to On the Runs,,,,,
+Joint Declaration by the British and Irish Governments,,,,,
+Agreement between the British and Irish Governments: Monitoring and Compliance,,,,,
+Implementation of the Good Friday Agreement: Proposals by the Two Governments,,,,,
+Joint Statement by Tony Blair and Berti Ahern (Saturday afternoon statement),,,,,
+Letter from British and Irish governments to the political parties in Northern Ireland (Saturday morning),,,,,
+Statement by the Irish Republican Army (IRA) (Saturday),,,,,
+Joint Statement by the British and Irish Governments (Friday evening statement),,,,,
+"Declaration issued by British and Irish Governments, Hillsborough",,,,,
+Agreement between the Government of Great Britain and Northern Ireland and the Government of Ireland establishing Implementation Bodies,,,,,
+Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland establishing a British-Irish Council,,,,,
+Agreement between the United Kingdom of Great Britain and Northern Ireland and Ireland establishing a North/South Ministerial Council,,,,,
+Agreement Reached on Departments and Cross-border Bodies,,,,,
+The Agreement Reached in the Multi-Party Negotiations (Good Friday Agreement or Belfast Agreement),,,,,
+Combined Loyalist Military Command Ceasefire Statement,,,,,
+IRA Ceasefire Statement,,,,,
+Declaration on Cooperation on Water-Related Matters,,,,,
+Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan,,,,,
+UN Security Council Resolution 1701,,,,,
+Israel-Lebanon Ceasefire Understanding,,,,,
+Understanding Regarding Ceasefire in Gaza Strip,,,,,
+Agreed Principles for Rafah Crossing,,,,,
+Agreement on Movement and Access,,,,,
+Protocol Concerning Safe Passage between the West Bank and the Gaza Strip,,,,,
+Sharm El Sheikh Memorandum: Implementation Timeline of Outstanding Commitments of Agreements Signed and the Resumption of Permanent Status Negotiations,,,,,
+Wye River Memorandum,,,,,
+Agreement on Temporary International Presence in the City of Hebron (II),,,,,
+Protocol Concerning the Redeployment in Hebron,,,,,
+Note for the Record,,,,,
+Agreement on the Temporary International Presence in the City of Hebron,,,,,
+Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip ('Oslo II'),,,,,
+"Annex I, Protocol Concerning Redeployment and Security Arrangements, Israeli­ Palestinian Interim Agreement on The West Bank and the Gaza Strip (Oslo II)",,,,,
+"Annex II, Protocol Concerning Elections, Israeli Palestinian Interim Agreement on The West Bank and the Gaza Strip (Oslo II)",,,,,
+"Annex III, Concerning Civil Affairs, Israeli­ Palestinian Interim Agreement on The West Bank and the Gaza Strip (Oslo II)",,,,,
+"Annex IV, Protocol Concerning Legal Affairs, Israeli­ Palestinian Interim Agreement on The West Bank and the Gaza Strip (Oslo II)",,,,,
+"Annex V, Protocol on Economic Relations, Israeli­ Palestinian Interim Agreement on The West Bank and the Gaza Strip (Oslo II)",,,,,
+"Annex VI, Protocol Concerning Israeli ­Palestinian Cooperation Programs, Israeli­ Palestinian Interim Agreement on The West Bank and the Gaza Strip (Oslo II)",,,,,
+"Annex VII, Release of Palestinian Prisoners and Detainees, Israeli­ Palestinian Interim Agreement on The West Bank and the Gaza Strip (Oslo II)",,,,,
+Protocol on Further Transfer of Powers and Responsibilities,,,,,
+Agreement on Preparatory Transfer of Powers and Responsibilities,,,,,
+Agreement on the Gaza Strip and the Jericho Area ('Cairo Agreement'),,,,,
+"Letters exchanges between PLO Chairman Yasser Arafat and Israeli Prime Minister Yitzhak Rabin following the signing of the Gaza-Jericho Agreement May 4, 1994",,,,,
+Declaration of Principles on Interim Self-Government Arrangements ('Oslo Accords'),,,,,
+"Nakuru County Peace Accord
+",,,,,
+"Kenya National Dialogue and Reconciliation, Statement of Principles on Long-term Issues and Solutions",,,,,
+Kenya National Dialogue and Reconciliation - Longer Term Issues and Solutions: Constitutional Review,,,,,
+"Kenya National Dialogue and Reconciliation - Truth, Justice and Reconciliation Commission",,,,,
+Kenyan National Dialogue and Reconciliation: Commission of Inquiry on Post-Election Violence,,,,,
+National Accord and Reconciliation Act 2008,,,,,
+Kenyan National Dialogue and Reconciliation: How to Resolve the Political Crisis,,,,,
+Kenya National Dialogue and Reconciliation: Public Statement,,,,,
+Undertaking of Demilitarisation and Transformation by the Kosovo Liberation Army (UCK),,,,,
+UN Security Council Resolution 1244 ,,,,,
+Interim Agreement for Peace and Self-Government in Kosovo (Rambouillet Accord),,,,,
+Kurdistan Regional Government Unification Agreement ,,,,,
+Doha Agreement on the Results of the Lebanese National Dialogue Conference,,,,,
+Memorandum of Understanding between Hezbollah and the Free Patriotic Movement,,,,,
+Arsal 24-Hour Ceasefire Agreement,,,,,
+"Treaty for Brotherhood, Cooperation and Coordination",,,,,
+The Electoral Pledge,,,,,
+Communique by SADC Facilitator Deputy President Cyril Ramaphosa: Maseru Facilitation Declaration,,,,,
+Signed agreement by political parties on the National Assembly Electoral Bill 2011,,,,,
+Memorandum of Agreement between the Government of Lesotho and the Interim Political Authority (IPA),,,,,
+"Joint Statement on the Acceptance, in Principle, of the Lesotho Elections Timetable",,,,,
+"Peace Agreement between the Government of Liberia, the Liberians United for Reconciliation and Democracy (LURD), the Movement of Democracy in Liberia (MODEL) and the Political Parties (Accra Agreement)",,,,,
+Agreement on Ceasefire and Cessation of Hostilities Between the Government of the Republic of Liberia and Liberians United for Reconciliation and Democracy and the Movement for Democracy in Liberia,,,,,
+"Final Communique, the Fifth Meeting of the Heads of State and Government of the ECOWAS Committee of Nine on the Liberian Crises",,,,,
+Supplement to the Abuja Accord,,,,,
+Mechanism for Returning Liberia to the Abuja Agreement,,,,,
+"Abuja Peace Agreement to Supplement the Cotonou and Akosombo
+Agreements as subsequently clarified by the Accra Agreement",,,,,
+Accra Acceptance and Accession Agreement,,,,,
+Agreement on the clarification of the Akosombo Agreement,,,,,
+Akosombo Agreement,,,,,
+Cotonou Accord (Geneva Ceasefire Agreement),,,,,
+Final Communiqué of the Economic Community of West African States (ECOWAS) at the informal consultative group meeting in Geneva,,,,,
+The Final Communique of the Fourth Meeting of the Committee of Five of the Economic Community of West African States of the Liberian Crisis (Yamossoukro IV Accord),,,,,
+"Final Communique of the Second Meeting of Five on the Liberian Crises , Yamoussokro (Yamoussoukro III Accord)",,,,,
+Outcome of Deliberations of the Meeting held in Yamoussokro on 29 and 30 June 1991 (Yamoussoukro I Accord),,,,,
+"Final Communque of the All-Liberia National Conference, Virginia, Liberia",,,,,
+"Agreement on Cessation of Hostilities and Peaceful Settlement of Conflict between the Armed Forces of Liberia, and The National Patriotic Front of Liberia, and the Independent National Patriotic Front of Liberia (Lome Ceasefire Agreement)",,,,,
+Joint Statement of the Warring Parties in Liberia (Banjul IV Agreement),,,,,
+"Joint Declaration on Cessation of Hostilities and Peaceful Settlement of Conflict, Mali (Bamako Ceasefire Agreement)",,,,,
+"Final Communique, Economic Community of West African States, First Extraordinary Session of the Authority of Heads of State and Government, Bamako, 27 and 28 November 1990",,,,,
+"Decision A/DEC.1/11/90 relating to the Approval of the Decisions of the Community Standing Mediation Committeee Taken During its First Session from 6 to 7 August, 1990, Banjul (Ecowas Peace Plan)",,,,,
+Decision A/DEC.2/11/90 relating to the Adoption of an Ecowas Peace Plan for Liberia and the Entire West African Sub-region (Ecowas Peace Plan),,,,,
+Agreement on Cessation of Hostiliities and Peaceful Settlement of Conflict in Liberia (Banjul III Agreement),,,,,
+Decision A/DEC.4/8/90 on the establishment of an ECOWAS Observer Group for Presidential and General Elections in the Republic of Liberia (Ecowas Peace Plan),,,,,
+Decision A/DEC.1/8/90 on the Ceasefire and Establishment of an ECOWAS Ceasefire Monitoring Group for Liberia (ECOWAS Peace Plan),,,,,
+Decision A/DEC.3/8/90 on the Establishment of a Special Emergency Fund for ECOWAS Operations in the Republic of Liberia (Ecowas Peace Plan),,,,,
+Libyan Political Agreement (Sukhairat Agreement),,,,,
+Minutes of the Disengagement Agreement and Truce between the areas of Warshafānah and al-Zāwiyyah ,,,,,
+"Statement by the Martyrs Brigade in Zawiyat al-Mahjoub regarding the ceasefire agreement in Aziziyyah and the latest developments in and near Tripoli
+",,,,,
+Draft Constitutional Charter for the Transitional Stage: The Constitutional Declaration,,,,,
+Framework Agreement (The Ohrid Agreement),,,,,
+Roadmap for Ending the Crisis in Madagascar - Commitments by Malagasy Political Stakeholders,,,,,
+"Acte Additionnel d’Addis Abéba, à la Charte de la Transition Malgache",,,,,
+Annexe 1 Adhésion à la Charte Nationale de Transition,,,,,
+Charte de la Transition,,,,,
+Charte des Valeurs,,,,,
+Accord N°1 de Maputo sur l’Annulation des Charges Relatives aux Evènements de 2002 à Madagascar,,,,,
+"Accord N°3 de Maputo sur l’Annulation des Poursuites et des Condamnations Prononcées contre des Personnalités Politiques, Civiles ou Militaires durant le Regime Ravalomanana",,,,,
+Accord N°2 de Maputo sur le Cas du Président Marc Ravalomanana,,,,,
+Accord Pour la Paix et la Reconciliation au Mali - Issu du Processus d'Alger,,,,,
+Arrangement sécuritaire pour une cessation des hostilités,,,,,
+Accord de cessez-le-feu,,,,,
+Accord préliminaire à l’élection présidentielle et aux pourparlers inclusifs de paix au Mali (Accord préliminaire de Ouagadougou),,,,,
+Déclaration d’adhésion à l’accord préliminaire à l’élection présidentielle et aux pourparlers inclusifs de paix au Mali,,,,,
+Accord cadre de mise en œuvre de l’engagement solennel du 1er Avril 2012,,,,,
+"Accord d’Alger pour la Restauration de la Paix, de la Sécurité et du Développement dans la région de Kidal",,,,,
+Pacte National conclu entre le Gouvernement de la République du Mali et les mouvements et fronts unifiés de l’Azawad consacrant le statut particulier du Nord au Mali,,,,,
+"Accord sur la cessation des hostilities entre le Gouvernement de la Republique du Mali d'une part, et le Mouvement Populaire de l'Azaouad et le Front Islamique Arabe d'autre part",,,,,
+"Actions and Measures for Chiapas Joint Commitments and Proposals from the State and Federal Governments, and the EZLN",,,,,
+Agreement Regarding the Joint Proposals between the Federal Government and the EZLN,,,,,
+Commitments for Chiapas by the State and Federal Governments and the EZLN under Paragraph 1.3 of the Rules of Procedure,,,,,
+Joint Declaration that the Federal Government and the EZLN shall submit to National Debating and Decision-making Bodies,,,,,
+Joint Proposals that the Federal Goverrment and the EZLN agree to remit to the National Debating and Decision-Making Bodies in accordance with paragraph 1.4 of the Rules of Procedure,,,,,
+Agreement between the Russian Federation and the Republic of Moldova on Matters Related to Jurisdiction and Mutual Legal Assistance on Issues Regarding the Russian Federation Military Formations Temporarily Situated in the Territory of the Republic of Moldova (Agreed in Moscow 21.10.1994),,,,,
+"Agreement between the Russian Federation and the Republic of Moldova regarding the legal status, procedure and period for the withdrawal of the Russian Federation Military Units/Formations, temporarily situated in the territory of the Republic of Moldova",,,,,
+Agreement on the Principles for a Peaceful Settlement of the Armed Conflict in the Dniester Region of the Republic of Moldova,,,,,
+Memorandum on the Bases for Normalization of Relations between the Republic of Moldova and Transdniestria,,,,,
+Communique of the Personal Envoy of the Secretary-General for Western Sahara (Agreed with the Parties) (Manhasset II),,,,,
+Communique of the Personal Envoy of the Secretary-General for Western Sahara (Agreed with the Parties) (Manhasset I),,,,,
+UN Security Council Resolution 1541,,,,,
+Results of the Fourth Round of Direct Talks (Houston Declaration),,,,,
+Results of the Third Round of Direct Talks: Compromise of Troop Confinement (Lisbon Compromise),,,,,
+Results of the Second Round of Direct Talks (London Compromise Agreement on Outstanding Identification Issues),,,,,
+UN Security Council Resolution 690,,,,,
+Implementation plan proposed by the Secretary-General pursuant to Security Council resolution 621 (1988) of September 1988,,,,,
+Declaração de Princíp ios sobre a despartidarização  da Função Pública,,,,,
+Projecto de Lei de Memorando de Entendimento,,,,,
+Declaração de Cessação das Hostilidades Militares,,,,,
+Lei de Amnistia,,,,,
+General Peace Agreement for Mozambique,,,,,
+Protocol III- Principles of the Electoral Act,,,,,
+Protocol II- Criteria and Arrangements for the Formation and Recognition of Parties,,,,,
+Protocol I- Basic Principles,,,,,
+Agreement on a Partial Ceasefire,,,,,
+Military Code of Conduct between the Government of Burma and Ethnic Armed Organisations (EAO) in Accordance with the National Ceasefire Agreement (NCA),,,,,
+The Nationwide Ceasefire Agreement (NCA) between The Government of the Republic of the Union of Myanmar and the Ethnic Armed Organizations (EAO),,,,,
+Joint Monitoring Committee guideline for Each Level (Draft),,,,,
+Code of Conduct for political parties and candidates,,,,,
+"11-Point Common Position of Ethnic Resistance Organizations on Nationwide Ceasefire (Laiza Agreement)
+",,,,,
+8-Point Agreement between the Union Peacemaking Working Committee (UPWC) and Karenni National Progressive Party (KNPP),,,,,
+7-points Agreement between Myanmar government and Kachin Independence Organization (KIO),,,,,
+Union-level agreement between Pa-Oh National Organization (PNLO) and Union Peacemaking Working Committee (UPWC),,,,,
+"United Wa State Army (UWSA), Government 6-Point Union-Level Peace Agreement",,,,,
+Agreement Between the Chin National Front (CNF) and Union-Level Peace Working Committee at the 2nd Round of Peace Talks,,,,,
+"Shan State Army-South (SSA-S), Government, UNOFC Tripartite agreement",,,,,
+State-level Ceasefire Agreement between Pa-Oh National Organization (PNLO) and Government,,,,,
+"Shan State Army-South (SSA-S), Government 12-Point Peace Agreement",,,,,
+"Chin National Front (CNF), Government Ceasefire Agreement",,,,,
+"Nationalist Socialist Council of Nagaland-Khaplang (NSCN-K), Government State-Level Peace Agreement",,,,,
+KLUU Press Release on 1st Meeting Between (Karen National Union) KNU Delegation and Union-Level Peace Delegation,,,,,
+Rakhine State Liberation Party (RSLP) and State Government Peace-Making Group 5-point State-level Agreement,,,,,
+"New Mon State Party (NMSP), Government 4-Point Union-Level Peace Agreement",,,,,
+New Mon State Party (NMSP) Government 5-point State-level Peace Agreement between Mon State Level Peace-Making Group ,,,,,
+"Shan State Progress Party (SSPP)/Shan State Army-North (SSAN), Government Preliminary Peace and 5-Point Peace Agreement",,,,,
+"Shan State Army-South (SSA-S), Government 11-Point Peace Agreement",,,,,
+Statement on Initial Agreement between the Karen National Union (KNU) and Burmese Government,,,,,
+Chin National Front (CNF) and Government 9-point State-level Peace Agreement,,,,,
+"Kalo Htoo Baw (DKBA-5), Government Union-level Peace Agreements",,,,,
+"Shan State Army-South (SSA-S), Government Ceasefire Agreement",,,,,
+"Kalo Htoo Baw (DKBA-5), Government State-level Peace Agreement",,,,,
+National Democratic Alliance Army (NDAA) Agreed Terms,,,,,
+Treaty on Walvis Bay,,,,,
+Agreement on the Joint Administration of Walvis Bay and the Off-Shore Islands,,,,,
+Second Joint Statement and Agreed Minutes of the Second Joint Meeting of the Joint Technical Committee on Walvis Bay and the Off-Shore Islands,,,,,
+Constitution of Nepal 2015,,,,,
+The 16 Point Agreement,,,,,
+The Seven Point Agreement,,,,,
+4-Point Agreement between the GoN and UCPN (Maolist) to Take the Peace Process to its Logical Conclusion ,,,,,
+Agreement between the GoN and Akhil Terai Mukti Morcha (Sansthapan Paksha),,,,,
+Agreement between the GoN and Liberation Tigers of Terai Eelam (LTTE),,,,,
+Agreement between the GoN and Kirant Janawadi Workers Party,,,,,
+Agreement between GoN and Nepal Pichchada Varga Mahasangha,,,,,
+9-Point Agreement between the Maoists and the CPN (UNML),,,,,
+"Agreement between the GoN and Tamsaling Samyukta Sangharsha Samiti, Nepal",,,,,
+Agreement between the GoN and Nepal Pichchada Varga Mahasangha,,,,,
+Agreement between the GoN and Madhesh Mukti Tigers,,,,,
+Agreement between the GoN and the Adivasi Tharu Community agitating in the Terai and Nepal Adivasi Janajati Mahsangha,,,,,
+Agreement between the GoN and Kirant Janawadi Workers Party,,,,,
+Agreement between the GoN and Janatrantrik Terai Mukti Morcha (Rajan Mukti Samuha),,,,,
+Agreement between the GoN and Terai Samyukta Janakraati Party,,,,,
+"Agreement between the GoN and Samyukta Janatrantrik Terai Mukti
+Morcha",,,,,
+Agreement between the GoN and Madheshi Virus Killer Party ,,,,,
+Agreement between the GoN and Rastriya Haliya Mukti Samaj Mahasangha,,,,,
+Agreement between the Political parties to Amend the Constitution and to Further the Peace Process ,,,,,
+10-Point Commitment made by the Leaders of the Main Political Parties,,,,,
+Agreement Reached between the Government Talks Team comprising Seven Political Parties and the Federal Limbuwan State Council,,,,,
+"Agreement between the Government Talks Team comprising the Seven political Parties and Sanghiya Ganatantrik Rastriya Morcha, Nepal",,,,,
+Agreement between the GoN and Samyukta Loktantrik Madheshi Morcha,,,,,
+23-Point Agreement between the Top Leaders of the Seven-Party Alliance,,,,,
+Agreement between the GoN and the Rastriya Badi Adkhikar Sangharsha Samiti,,,,,
+"Agreement between the GoN and Chure Bhawar Pradesh Ekta Samaj, Nepal",,,,,
+Agreement between the GoN and Nepal Adivasi Janajati Mahasangha and Adivasi Janajati Samyukta Sangharsha Samiti,,,,,
+"Agreement between the GoN and Madheshi Janadhikar Forum, Nepal",,,,,
+Nepal Interim Constitution,,,,,
+Agreement on the Monitoring of Arms and Armies,,,,,
+Dissolution of NMCC,,,,,
+Comprehensive Agreement concluded between the Government of Nepal and the Communist Party of Nepal (Maoist),,,,,
+Decisions of the Seven Party Alliance (SPA) - Maoist Summit Meeting,,,,,
+Press Release of Summit Meetings,,,,,
+Local Peace Council and its Procedure-2006,,,,,
+Extending a time-limit of the Interim Constitution Draft Committee,,,,,
+Press Release of the Expansion of the Interim Constitution Draft Committee,,,,,
+Press Release of the Expansion of the Interim Constitution Draft Committee,,,,,
+"Procedures of the National Monitoring Committee on Code of Conduct for Ceasefire
+",,,,,
+"Terms of Reference and Power of the National Monitoring Committee on Code of Conduct for Ceasefire 
+",,,,,
+Agreement reached between the Government of Nepal and the CPN (Maoists) at Kupodole,,,,,
+25-Point Ceasefire Code of Conduct Agreed between the Government of Nepal and SPN (Maoist),,,,,
+"Proclamation To The Nation From His Majesty King Gyanendra
+on 24 April 2006 
+",,,,,
+Second Understanding concluded between the Seven Political Parties and the CPN (Maoist),,,,,
+12-Point Understanding between the Seven Political Parties and Nepal Communist Party (Maoists),,,,,
+Acuerdo de Paz entre el Gobierno de Nicaragua y el Estado Mayor del Frente Norte 3-80 (Acuerdo de Managua),,,,,
+Protocolo de Verificación,,,,,
+The Managua Protocol on Disarmament,,,,,
+Effective and Definitive Ceasefire Agreement between the Government of Nicaragua and the Nicaraguan Resistance under the Auspices of his Eminence Miguel Cardinal Obando y Bravo,,,,,
+Definitive Ceasefire Agreement between the Government of the Republic of Nicaragua and the YATAMA Atlantic Front of the Nicaraguan Resistance under the Auspices of his Eminence Miguel Cardinal Obando y Bravo,,,,,
+The Toncontin Agreement,,,,,
+Accord de N'Djaména entre le Gouvernement de la République du Niger et le Front Démocratique pour le Renouveau (FDR),,,,,
+"Protocole d'accord additionnel entre le Gouvernement de la Republique du Niger et l'Union des Forces de la Resistance Armee (FPLS, MUR, FAR) et les Forces Armees Revolutionnaires du Sahara",,,,,
+Accord établissant une paix définitive entre le Gouvernement de la République du Niger et l'Organisation de la Résistance Armée,,,,,
+Accord de Paix entre le Gouvernement de la Republique du Niger et la Coordination de la Resistance Armee (Ouagadougou Accord),,,,,
+Joint Declaration of Commitment to Peace and Cooperation,,,,,
+Declaration on the Advancement of South-North Korean Relations Peace and Prosperity,,,,,
+Joint Declaration of the Denuclearization of the Korean Peninsula,,,,,
+Agreed Framework between the United States of America and the Democratic People's Republic of Korea,,,,,
+Swat Peace Accord,,,,,
+North West Frontier Province Government’s Agreement with the Taliban,,,,,
+Ahmadzai Wazir Wana Peace Agreement ,,,,,
+Peace Agreement in North Waziristan (Miranshah Peace Accord),,,,,
+Srarogha Peace Agreement,,,,,
+Shakai Peace Agreement,,,,,
+Fatah-Hamas Agreement,,,,,
+The Gaza Agreement (The Sha'ti Agreement),,,,,
+The Doha Declaration,,,,,
+"The Fatah-Hamas Unity Agreement, Cairo",,,,,
+The National Conciliation Document of the Prisoners (The Prisoner's Document) (2nd Version),,,,,
+The National Conciliation Document of the Prisoners (The Prisoner's Document) (1st Version),,,,,
+"AIDE MEMOIRE
+Aide Memoire, Presentation of the Bougainville Peace Agreement, and Formal Request
+for Assistance in Implementation by the United Nations Political Office, Observer Mission in Bougainville. Papua New Guinea (UNPOB/UNOMB)
+",,,,,
+Bougainville Peace Agreement,,,,,
+Joint Bougainville Ex-combatants Agreement on Weapons Disposal (Rotakas Record),,,,,
+Loloata Understanding,,,,,
+Draft Basic Agreement Concerning the Bougainville Reconciliation Government,,,,,
+Agreement covering Implementation of the Ceasefire (Arawa Agreement),,,,,
+"Lincoln Agreement on Peace, Security and Development on Bougainville",,,,,
+"Agreement between New Zealand, Papua New Guinea, Australia, Fiji and Vanuatu concerning the Neutral Truce Monitoring Group for Bougainville",,,,,
+Protocol Concerning the Neutral Truce Monitoring Group,,,,,
+The Burnham Truce,,,,,
+Memorandum of Understanding,,,,,
+Waigini Communique,,,,,
+Charter of Mirigini for a New Bougainville,,,,,
+The Honiara Declaration,,,,,
+Memorandum of Understanding between Buka Community Leaders and the National Government Delegation,,,,,
+Endeavour Accord,,,,,
+"Memorandum of Understanding between the Government of the Republic of the Philippines (GRP), the National Democratic Front of the Philippines (NDPF) and the Third Party Facilitator, the Royal Norwegian Government",,,,,
+Statement by the Joint Monitoring Committee,,,,,
+The Second Oslo Joint Statement,,,,,
+"Executive Order No 117, Reconstituting the Joint Enforcement and Monitoring Committee to Implement the Peace Agreement between the Government of the Republic of the Philippines and the Rebolusyonaryong Partido NG Manggagawa - Pilipinas/Revolutionary Proletarian Army/Alex Boncayao Brigade, Repealing Executive Order No 225,dated January 4, 2001 and for other purposes",,,,,
+Oslo Joint Communique,,,,,
+Joint Statement by the Negotiating Panels of the Government of the Republic of the Philippines (GRP) and the Negotiating Panel of the National Democratic Front of the Philippines (NDPF),,,,,
+Comprehensive Agreement on Respect for Human Rights and International Humanitarian Law between the Government of the Republic of the Philippines and the National Democratic Front of the Philippines,,,,,
+Additional Implementing Rules of the Joint Agreement on Safety and Immunity Guarantees (JASIG) Pertaining to the Security of Personnel and Consultations in Furtherance of the Peace Negotiations,,,,,
+Joint Agreement in Support of Socio-economic Projects of Private Development Organizations and Institutes,,,,,
+Joint Agreement on Safety and Immunity Guarantees,,,,,
+Memorandum of Agreement between the Government of the Philippines and the CBA/CPLA towards the CPLA’s Final Disposition of Arms and Forces and its Transformation into a Potent Socio-Economic Unarmed Force (Closure Agreement),,,,,
+The Task Force for Decommissioned Combatants and their Communities and its Terms of Reference,,,,,
+Certification (Renewal of the International Monitoring Team mandate),,,,,
+Certification (Renewal of Ad Hoc Joint Action Group mandate),,,,,
+Protocol on the Implementation of the Terms of Reference (TOR) of the Independent Decommissioning Body (IDB),,,,,
+Certification (Renewal of the International Monitoring Team mandate),,,,,
+The Coordination Team for the Transition to the Bangsamoro Transition Authority (BTA) and its Terms of Reference,,,,,
+"The Comprehensive Agreement on the Bangsamoro
+",,,,,
+Terms of Reference for the Joint Normalization Committee,,,,,
+Terms of Reference for the Independent Decommissioning Body,,,,,
+Terms of Reference for the Transitional Justice and Reconciliation Commission,,,,,
+"Annex on Normalization to the Framework Agreement on the Bangsamoro (FAB)
+",,,,,
+"On the Bangsamoro Waters and Zones of Joint Cooperation Addendum to the Annex on Revenue Generation and Wealth-sharing and the Annex on Power-sharing
+",,,,,
+Annex on Power-Sharing to the Framework Agreement on the Bangsamoro (FAB),,,,,
+Annex on Revenue Generation and Wealth-sharing to the Framework Agreement on the Bangsamoro (FAB),,,,,
+Guidelines for Mutual Understanding between the CCCH of the GPH and the MILF for Ceasefire-related Functions during the 13 May 2013 National and Local Elections,,,,,
+Terms of Reference for Sajahatra Bangsamoro,,,,,
+Annex on Transitional Arrangements and Modalities to the Framework Agreement on the Bangsamoro (FAB),,,,,
+"The Independent Commission on Policing and its Terms of Reference
+",,,,,
+"Third Party Monitoring Team (TPMT) and its Terms of Reference
+",,,,,
+Framework Agreement on the Bangsamoro,,,,,
+Government of the Philippines-MILF Decision Points on Principles as of April 2012,,,,,
+Implementing Guidelines on the Joint Communiqué of 6 May 2002,,,,,
+Implementing Guidelines of Joint Communique of 6 May 2002,,,,,
+"Guidelines on the Humanitarian, Rehabilitation and Development (HRD) Component of International Monitoring Team (IMT)",,,,,
+Guidelines for the Implementation of the Philippine Campaign to Ban Landmines - Fondation Suisse de Deminage (PCBL-FSD) Project Pursuant to the Joint Statement of the GRP-MILF Peace Panels dated 15 November 2007,,,,,
+Interim Implementing Guidelines of the Joint Communiqué of May 06 2002,,,,,
+Agreement on the Civilian Protection Component of the International Monitoring Team (IMT),,,,,
+Framework Agreement on the Formation of the International Contact Group for the GRP-MILF Peace Process,,,,,
+Memorandum of Agreement on the Ancestral Domain Aspect of the GRP-MILF Tripoli Agreement on Peace of 2001,,,,,
+"Communique on the Tripartite Meeting between the GRP, the MNLF and the OIC",,,,,
+Highlights of the Meeting of the Joint Technical Group on Concept,,,,,
+Consensus Points on the Strand on Governance of the Ancestral Domain Aspect at TWG level,,,,,
+"Consensus Points on the Strands on Concept, Territory Resources, and Governance at TWG level",,,,,
+Interim Implementing Guidelines on the Joint Communique of 6 May 2002,,,,,
+"Implementing Guidelines on the Humanitarian, Rehabilitation and Development Aspects of the GRP-MILF Tripoli Agreement on Peace of 2001",,,,,
+Implementing Guidelines on the Security Aspect of the GRP-MILF Tripoli Agreement of Peace of 2001,,,,,
+Agreement of Peace between the Government of the Republic of the Republic of Philippines and the Moro Islamic Liberation Front ,,,,,
+"Agreement to Cease Hostilities along the Highway of Cotabato City to Isulan, Sultan Kudarat",,,,,
+Agreement for Field Commanders of both Parties to Immediately and Strictly Observe the Ceasefire Agreement,,,,,
+Rules and Procedures in the Administration of the Joint Secretariat of the Joint GRF-MILF Coordinating Committees on Cessation of Hostilities,,,,,
+Rules and Procedures in the Determination and Verification of the Coverage of Cessation of Hostilities,,,,,
+Internal Procedures in the Conduct of GRP-MILF Coordingating Committees of Cessation of Hostilities Meetings,,,,,
+"Resolution No. 3 A Resolution to Cease Hostilities at Datu Plang, Shariff Aguak, and Talayan, Maguindanao (Resolution to Cease Hostilities in 3 Municipalities of Maguindanao)",,,,,
+"Resolution no.2 Creating a Joint Monitoring Contingent to Oversee the Peace Situation in Upper Minabay, Buldon, Maghuindanao",,,,,
+Agreement to Sustain the Quest for Peace (II),,,,,
+Agreement Creating a Quick Response Team,,,,,
+Agreement to Sustain the Quest for Peace (I),,,,,
+Implementing Operational Guidelines of the GRP-MILF Agreement on the General Cessation of Hostilities,,,,,
+Implementing Adminstrative Guidelines of the GRP-MILF Agreement on the General Cessation of Hostilities,,,,,
+Agreement for General Cessation of Hostilities,,,,,
+Resolution No. 1 Composition of the Interim Ceasefire Monitoring Committee and Assigned Tasks and Functions,,,,,
+"Interim Cessation of Hostilities in Buldon, Maguindanao",,,,,
+Final agreement on the implementation of the 1976 Tripoli Agreement between the Government of the Republic of the Philippines (GRP) and the Moro National Liberation Front (MNLF),,,,,
+1993 Interim Ceasefire Agreement Between the Government of the Republic of The Philippines (GRP) and the Moro National Liberation Front (MNLF) with the Participation of the Organization of the Islamic Conference (OIC),,,,,
+General Agreement for Peace between the Government of the Republic of the Philippines and the Rebolusyonaryong Alyansang Makabansa - Soldiers of the Filipino People - Young Officers' Union,,,,,
+Rules and Procedures to Implement the Intent and Provisions of the Peace Agreement between the Republic of the Philippines and the Rebolusyonaryong Partido NG Manggagawa – Pilipinas/Revolutionary Proletarian Army/Alex Boncayao Brigade,,,,,
+Accords de Paix et de cessation des hostilités dans le département de Pool,,,,,
+Ceasefire and ending hostilities agreement between the High Command of the Security Forces and the High Command of the Self-defence Forces of Resistance (FADR),,,,,
+Agreement on Ending Hostilities in the Republic of Congo,,,,,
+On the Withdrawal of Forces and Equipment Making up the Temporary Combined Forces Carrying Out the Tasks of Disarming All Illegal Armed Forces Formations on Chechen Republic Territory,,,,,
+Russian-Chechen Agreement,,,,,
+On Measures to Ensure Further Peaceful Settlement in the Chechen Republic,,,,,
+Decree of the Federation Council of the Russian Federation Federal Assembly: On the Situation in the Chechen Republic,,,,,
+Khasavyurt Joint Declaration and Principles for Mutual Relations,,,,,
+Russian-Chechen Truce Agreement: Principles for Determining the Fundamentals of  Relations between the Russian Federation and the Chechen Republic [Khasavyut Accord],,,,,
+"Agreement ""On Urgent Measures to Stop Fire and Combat Operations in the City of Grozny and on the Territory of Chechnya""",,,,,
+Protocol of the Meeting of the Commissions on the Negotiations Regarding a Ceasefire and Cessation of Hostilities and on Measures to Settle the Armed Conflict on the Territory of the Chechen Republic,,,,,
+"Protocol of the Meeting of the Working Groups, Formed under the Negotiations Commissions, to Locate Missing Persons and to Free Forcibly Detained Persons",,,,,
+Protocol of the Meeting of the Working Groups on the Question of a Settlement of the Armed Conflict on the Territory of the Chechen Republic,,,,,
+"Agreement on a Ceasefire, the Cessation of Military Activities, and on Measures for a Settlement of the Armed Conflict on the Territory of the Chechen Republic",,,,,
+Statute of the Russian Federation Government Mission in the Chechen Republic,,,,,
+"Protocol of the Meeting of Delegates for the Peaceful Resolution of the Crisis in the Chechen Republic, with the Cooperation of the OSCE",,,,,
+Peace Agreement between the Government of the Republic of Rwanda and the Rwandese Patriotic Front ('Arusha Agreement'),,,,,
+Protocol of Agreement between the Government of the Republic of Rwanda and the Rwandese Patriotic Front on Miscellaneous Issues and Final Provisions,,,,,
+Protocol of Agreement between the Government of the Republic of Rwanda and the Rwandese Patriotic Front on the Integration of the Armed Forces of the Two Parties,,,,,
+Protocol of Agreement between the Government of the Republic of Rwanda and the Rwandese Patriotic Front on the Repatriation of Rwandese Refugees and the Resettlement of Displaced Persons,,,,,
+"The Protocol of Agreement between the Government of the Republic of Rwanda and the Rwandese Patriotic Front on Power-Sharing within the Framework of a Broad-based Transitional Government (Continuation of the Protocol of Agreement Signed on the 30th October, 1992) ",,,,,
+Protocol of Agreement on Power-sharing within the Framework of  broad-based Transitional Government between the Government of the Republic of Rwanda and the Rwandese Patriotic Front,,,,,
+Protocol of Agreement between the Government of the Republic of  Rwanda and the RPF on the Rule of Law,,,,,
+N’SELE Ceasefire Agreement 29 March 1991 between the Government of the Republic of Rwanda (GRR) and the Rwandese Patriotic Front as amended at Gbadolite on 16 September 1991 and at Arusha 12 July 1992,,,,,
+Memorandum of Understanding between the Government of Uganda and the Government of Rwanda on the Formation of a Joint Verification and Investigation Committee,,,,,
+International Border Treaty between the Republic of Yemen and the Kingdom of Saudi Arabia,,,,,
+Saudi-Yemeni Memorandum of Understanding,,,,,
+General Peace Agreement Between the Government of the Republic of Senegal and Le Mouvement des Forces Démocratiques de la Casamance (MFDC) (Ziguinchor Agreement),,,,,
+Demilitarization Statement (Konculj Agreement),,,,,
+Teksti integral i Marrëveshjes së nënshkruar nё Konçul,,,,,
+Program for the Solution of the Crisis in the Pcinja District (Covic Plan) ,,,,,
+Communiqué on the Cessation of Hostilities between the Civil Defense Force (CDF) and the Revolutionary United Front (RUF),,,,,
+Agreement of Ceasefire and Cessation of Hostilities between the Sierra Leone Government and the Revolutionary United Front (RUF) ('Abuja Ceasefire Agreement'),,,,,
+Peace Agreement between the Government of Sierra Leone and the Revolutionary United Front of Sierra Leone (RUF/SL) (Lome Agreement),,,,,
+Statement by the Government of Sierra Leone and the Revolutionary United Front of Sierra Leone on the Delivery of Humanitarian Assistance in Sierra Leone,,,,,
+Statement by the Government of Sierra Leone and the Revolutionary United Front of Sierra Leone on the Release of Prisoners of War and Non-combatants,,,,,
+Agreement on Ceasefire in Sierra Leone,,,,,
+Economic Community of West African States six-month peace plan for Sierra Leone (23 October 1997-22 April 1997) (Conakry Peace Plan),,,,,
+Communiqué issued at Conakry on 23 October 1997 at the conclusion of the meeting between the Ministers of Foreign Affairs of the Committee of Five on Sierra Leone of the Economic Community of West African States and the delegation representing Major Johnny Paul Koromah,,,,,
+"Peace Agreement between the Government of the Republic of Sierra Leone and the Revolutionary United Front of Sierra Leone, signed at Abidjan ('Abidjan Accord')",,,,,
+Proposal by the President of the Presidency of FSRY accepted by the Presidency of Slovenia regarding the Crisis in Slovenia,,,,,
+Marau Peace Agreement,,,,,
+Townsville Peace Agreement,,,,,
+Honiara Peace Accord,,,,,
+Communique: The Mogadishu Declaration of the National Consultative Forum ,,,,,
+Central Regions State Formation Agreement (Mudug and Galgadug),,,,,
+"Agreement: An Inclusive Interim Administration for the South West Regions of Somalia (Bay, Bakol and Lower Shabelle)",,,,,
+Agreement between the Federal Government of Somalia and Jubba Delegation,,,,,
+Consultative Meeting of the Somali Signatories of the Process for Ending the Transition (End of Transition Roadmap),,,,,
+Provisional Constitution of The Federal Republic of Somalia,,,,,
+"Protocol Establishing the Somali New Federal Parliament
+",,,,,
+Protocol Establishing the Somali National Constituent Assembly,,,,,
+"Protocol Establishing the Technical Selection Committee
+",,,,,
+Joint Communiqué of the Consultative Meeting of the Signatories of the Process for Ending the Transition,,,,,
+"Protocol Establishing the Signatories Technical Facilitation Committee
+",,,,,
+Consultative Meeting on Ending the Transition in Somalia: Statement on Adoption of the Roadmap (Kampala Roadmap),,,,,
+Agreement between the President of the Transitional Federal Government of Somalia and the Speaker of the Transitional Federal Parliament (The Kampala Accord),,,,,
+Agreement between the Transitional Federal Government of Somalia and Ahlu Sunna Waljama’a,,,,,
+Declaration of Cooperation between Ahlu Sunnah Wal Jamaa and the Government of Somalia,,,,,
+"Decision on the High Level Committee, Djibouti Agreement",,,,,
+Joint Declaration between the Transitional Federal Government and the Alliance for the Re-Liberation of Somalia,,,,,
+Modalities for Implementation of Cessation of Armed Confrontation (Djibouti Agreement),,,,,
+Joint Statement between the Transitional Federal Government (TFG) and the Alliance for the Re-liberation of Somalia (ARS) on Somalia Emergency and Drought Relief,,,,,
+Adadda Peace Agreement ,,,,,
+Peace Agreement between the Sa’ad and Saleman sub-clans,,,,,
+Final Agreement from the National Reconciliation Commission-led Initiative,,,,,
+Aden Declaration,,,,,
+The Transitional Federal Charter of the Somali Republic,,,,,
+Declaration on Cessation of Hostilities and the Structures and Principles of the Somalia National Reconciliation Process (Eldorat Declaration),,,,,
+Declaration of National Commitment (Arta Declaration) ,,,,,
+Cairo Declaration on Somalia,,,,,
+Adadda Peace Agreement ,,,,,
+Addis Ababa Agreement concluded at the first session of the Conference on National Reconciliation in Somalia,,,,,
+Agreement on Implementing the Cease-fire and on Modalities of Disarmament (Supplement to the General Agreement signed in Addis Ababa on 8 January 1993),,,,,
+Agreement to Implement on the Implementation of the cease-fire signed by Interim President Ali Mahdi Mohamed,,,,,
+Agreement on the implementation of the cease-fire signed by Ahmed Farah Aidid,,,,,
+"Pledge signed at the United Nations Headquarters on 14 February 1992 by Mr Mohamed Qanyare Afah, Head of the delegation of the Interim Government of Somalia",,,,,
+"Pledge signed at the United Nations Headquarters on 14 February 1992 by Mr Osman Hassan Ali, head of the delegation, member of the Standing Committee of the Central Committee of the Somali National Congress ",,,,,
+Agreement between the Federal Government of Somalia and Puntland State of Somalia,,,,,
+"The Garowe II Principles on Federalism, System of Government and Ending of Transition through operationalizing Garowe I (Garowe II)",,,,,
+The Garowe Principles on the Finalization and Adoption of the Constitution and the End of Transition (Garowe I),,,,,
+Agreement between the TFG and the Puntland Regional State of Somalia (Galkayo Agreement),,,,,
+Decisions by the Elders Chairing the Burtinle Conference ,,,,,
+Burtinle Peace Agreement ,,,,,
+Ramada Peace Agreement ,,,,,
+"Conciliation and Peace Conference of the Regions of Bari Nugal and Mudug, SNA, SNDU, SSDF Peace Agreement (Mudug Peace Agreement) ",,,,,
+Sanaag Regional Peace Charter (Erigavo Peace Charter),,,,,
+Memorandum of Agreement for Reconciliation and Peace between the Inkatha Freedom party/Kwazulu Government and the African National Congress and the South African Government/National Party ,,,,,
+South African Constitution of 1993 (Interim Constitution),,,,,
+Agreement between the Wonduruba Community and the SPLA Commando Unit,,,,,
+Mundri Agreement,,,,,
+Outcome of the Meeting of the Principal Signatory Parties to the Agreement on Planning Implementation of the provisions in Chapter II of the Agreement,,,,,
+Agreement on the Resolution of the Conflict in the Republic of South Sudan,,,,,
+Areas of Agreement on the Establishment of the Transitional Government of National unity (TGoNU) in the Republic of South Sudan,,,,,
+Agreement on the Reunification of the Sudan People's Liberation Movement (Arusha Agreement),,,,,
+Protocol on Agreed Principles on Transitional Arrangements Towards Resolution of the Crises in South Sudan,,,,,
+Agreement to Resolve the Crisis in South Sudan,,,,,
+Agreement on Resolution of the Conflict in Jonglei State between Government of the Republic of South Sudan and South Sudan Democratic Movement/Army-Cobra Faction (SSDM-SSDA-Cobra) (Yau Yau Agreement),,,,,
+Implementation Modalities in Support of the Agreement on Cessation of Hostilities between the Government of the Republic of South Sudan (GRSS) and the Sudan People's Liberation Movement/Army (in opposition) (SPLM/A IO),,,,,
+"Agreement on a Cessation of Hostilities between the Government of the Republic of South Sudan and the South Sudan Democratic Movement/Defense Army, Cobra Faction",,,,,
+"Agreement on Cessation of Hostilities between the Government of the Republic of South Sudan (GRSS) and the Sudan People’s Liberation Movement/Army (In Opposition) (SPLM/A in Opposition)
+",,,,,
+Agreement on the Status of Detainees between the Government of the Republic of South Sudan (GRSS) and the Sudan People's Liberation Movement/Army (in opposition) SPLM/A (in opposition),,,,,
+"All-Jonglei Conference for Peace, Reconciliation and Tolerance, held in Bor, 1-5 May 2012: Conference Resolutions and Recommendations ",,,,,
+"Agreement between the Government of the Republic of South Sudan (GRSS) and the South Sudan Democratic Movement/Army (SSDM/A)
+",,,,,
+Ceasefire Framework Agreement between the SPLA and Lt. Gen. George Athor’s Forces,,,,,
+Juba Declaration on Unity and Integration between the Sudan People’s Liberation Army (SPLA) and the South Sudan Defence Forces (SSDF),,,,,
+Declaration and Resolutions of the Chukudum Crisis Peace Conference,,,,,
+"Liliir Covenant between the Anyuak, Dinka, Jie, Kachipo, Murle and Nuer who attended the East Bank People-to-People Peace and Reconciliation Conference in
+Liliir, Bor County, Upper Nile, Sudan",,,,,
+Waat Lou Nuer Covenant,,,,,
+Dinka Nuer West Bank Peace Council Communication,,,,,
+Wunlit Dinka Nuer Covenant and Resolutions,,,,,
+"Gogrial Agreement (between  Twic, Aweil East, Aweil South and Gogrial West Counties)",,,,,
+Implementation Matrix for Agreements between the Sudan and South Sudan,,,,,
+Implementation Modalities for Security Arrangements agreed on 27 September 2012,,,,,
+Agreement between Sudan and South Sudan on Border Issues,,,,,
+Agreement between Sudan and South Sudan on Certain Economic Matters,,,,,
+Framework Agreement to Facilitate Payment of Post Service benefits between Sudan and South Sudan,,,,,
+Agreement on Trade and Trade Related Issues between Sudan and South Sudan,,,,,
+"Cooperation Agreement between Sudan and South Sudan
+",,,,,
+Framework Agreement on the Status of Nationals of the Other State and Related Matters between Sudan and South Sudan,,,,,
+Agreement on a Framework for Cooperation on Central Banking Issues between Sudan and South Sudan,,,,,
+Agreement between Sudan and South Sudan on Oil and related matters,,,,,
+Agreement between Sudan and South Sudan on security arrangements,,,,,
+Framework Agreement on the Status of Nationals of the Other State and Related Matters between the Republic of the Sudan and the Republic of South Sudan,,,,,
+Agreement between the Republic of the Sudan and the Republic of South Sudan on the Demarcation of the Boundary,,,,,
+Memorandum of Understanding on Non-aggression and Cooperation,,,,,
+"Agreement on the Border Monitoring Support Mission
+between the Government of the Sudan and the Government
+of South Sudan",,,,,
+"Agreement between the Government of The Sudan and Government of Southern Sudan on Border Security and the Joint Political and Security Mechanism, Addis Ababa, Ethiopia",,,,,
+"Follow-up to the Kadugli Agreements
+Agreement between the Republic of the Sudan and the Republic of South Sudan on the Demarcation of the Boundary 
+",,,,,
+The Interim National Constitution of the Republic of Sudan 2005,,,,,
+Comprehensive Peace Agreement between the Government of the Republic of the Sudan and the Sudan People's Liberation Army/Sudan People's Liberation Movement (Naivasha Agreement),,,,,
+Agreement on Permanent Ceasefire and Security Arrangements Implementation Modalities between the Government of Sudan (GOS) and the Sudan People's Liberation Movement/People's Liberation Army (SPLM/SPLA) During the Pre-interim and Interim Periods,,,,,
+The Implementation Modalities of the Framework Agreement on Wealth Sharing,,,,,
+"The Implementation Modalities of the Protocol on Power Sharing, dated 26th May, 2004",,,,,
+"The Implementation Modalities of the Protocol on the Resolution of the Abyei Conflict, dated 26th May, 2004",,,,,
+Agreement Between the Government of the Sudan (GOS) and the Sudan People’s Liberation Movement/Sudan People’s Liberation Army (SPLM/SPLA) on Implementation Modalities of the Protocols and Agreements,,,,,
+Declaration on the Conclusion of IGAD Negotiations on Peace in the Sudan,,,,,
+The Nairobi Declaration on the Final Phase of Peace in the Sudan,,,,,
+Protocol between the Government of the Sudan and the Sudan People's Liberation Movement (SPLM) on Power Sharing,,,,,
+Framework Agreement on Wealth Sharing during the Pre-interim and Interim Periods between the Government of the Sudan (GOS) and the Sudan People's Liberation Movement/Sudan People's Liberation Army (SPLM/A),,,,,
+Agreement on Security Arrangements during the Interim Period,,,,,
+Agreement between the Government of Sudan and the Sudan People's Liberation Movement on Capacity Building and the Creation of a Joint Planning Mechanism from the Sudan Technical Meeting,,,,,
+Addendum to the Memorandum of Understanding on Cessation of Hostilities between the Govt of Sudan and the Sudan People's Liberation Movement/Army,,,,,
+Memorandum of Understanding between the Government of the Sudan and the Sudan People's Liberation Movement/Army on Aspects of Structures of Government,,,,,
+Memorandum of Understanding on Cessation of Hostilities between the Government of the Sudan and the Sudan People's Liberation Movement/Army,,,,,
+Machakos Protocol,,,,,
+Agreement between the Government of the Republic of Sudan and the Sudan People's Liberation Movement to Protect Non-Combatant Civilians and Civilian Facilities from Military Attack,,,,,
+Nuba Mountains Ceasefire Agreement on Sudan,,,,,
+Fashoda Peace Agreement,,,,,
+Sudan Peace Agreement,,,,,
+The IGAD Declaration of Principles,,,,,
+Juba Declaration on Dialogue and National Consensus,,,,,
+"Darfur Ceasefire (GoS/SLM/A), Abeche",,,,,
+"Terms of Reference for the Abyei Joint Committee
+",,,,,
+"Framework Agreement between Government of the Sudan and Sudan People’s Liberation Movement (North) (SPLM-North) on Political Partnership between the National Congress Party (NCP) and SPLM-N, and Political and Security Arrangements in Blue Nile and Southern Kordofan States ",,,,,
+Agreement between the Government of Sudan and the Sudan People's Liberation Movement on temporary arrangements for the administration and security of the Abyei Area,,,,,
+Agreement of the Minister of Interior on Security Arrangements in Abyei,,,,,
+"Misseriyya and Dinka Ngok Conference, Conference Agreement, Kadugli ",,,,,
+Decision and Recommendation of Peaceful Co-existence in Unity State  (Bentiu Peace Conference Resolutions),,,,,
+Communique: Dinka Malual & Rezeigat Grassroots Peace Conference,,,,,
+The peaceful co-existence conference between the Dinka tribe of Pariang County in Unity State and the Misseriyya Tribe (Alfulita) of Kilek locality in Southern Kordofan State,,,,,
+Joint Final Communique and Resolutions: Dinka Malual and Misseriyya Grassroots Peace Conference ,,,,,
+Roadmap for Return of IDPs and Implementation of Abyei Protocol,,,,,
+"The Implementation Modalities for the Protocol on the Resolution of Conflict in Southern Kordofan and Blue Nile States, dated 26th May, 2004",,,,,
+Protocol between the Government of Sudan and the Sudan People's Liberation Movement on the Resolution of Conflict in Southern Kordofan/Nuba Mountains and the Blue Nile States,,,,,
+The Protocol between the Government of Sudan and the People's Liberation Movement on the Resolution of the Abyei Conflict,,,,,
+Declaration of Principles for the Resolution of the Nuba Mountains’ Problem,,,,,
+Recommendations of the Terekeka Peace Conference,,,,,
+Basque Ceasefire Statement,,,,,
+Statement read out by the Norwegian Facilitator Erik Solheim,,,,,
+Memorandum of Understanding for the Establishment of a Post-Tsunami Operational Management Structure (P-TOMS),,,,,
+Tokyo Declaration on Reconstruction and Development of Sri Lanka,,,,,
+Agreed Measures to Improve the Security Situation in the East,,,,,
+Status of Mission Agreement on the Establishment and Management of the Sri Lanka Monitoring Mission (SLMM),,,,,
+Agreement on a ceasefire between the Government of the Democratic Socialist Republic of Sri Lanka and the Liberation Tigers of Tamil Eelam,,,,,
+"Sri Lanka Constitution Bill, an Act to Repeal and Replace the Constitution of the Democratic Socialist Republic of Sri Lanka",,,,,
+Declaration of Cessation of Hostilities,,,,,
+Final Communique of the Reconciliation Conference between the Misseriyya Tribes; the Awlad Hayban and Awlad Serur and al-Metanin,,,,,
+Chadian Mediator Text of Aichi Agreement,,,,,
+Agreement between the Government of Sudan and the National Democratic Alliance (NDA) (Cairo Agreement),,,,,
+Joint Statement between Government of Sudan and Sudanese Liberation Army (SLA),,,,,
+Agreement between the Government of Sudan and the Justice and Equality Movement-Sudan on the Basis of the Doha Document for Peace in Darfur,,,,,
+Protocol on the Participation of JEM-Sudan at the different levels of Government and on the Integration of its Forces,,,,,
+Ceasefire Agreement between the Government of Sudan and the Justice and Equality Movement-Sudan (JEM),,,,,
+Declaration of Cessation of Hostilities and Commitment to the Peace Process between the Government of Sudan and the Justice and Equality Movement Sudan (JEM),,,,,
+Protocol on the Political Participation of the Liberation and Justice Movement (LJM) and Integration of its Forces,,,,,
+Agreement between the Government of Sudan and the LJM for the Adoption of the Doha Document for Peace in Darfur,,,,,
+"Doha Document for Peace in Darfur (DDPD)
+",,,,,
+Ceasefire Implementation Mechanism (Annex to Ceasefire Agreement of 18 March 2010 between the Governement of Sudan and the LJM),,,,,
+Framework Agreement to Resolve the Conflict in Darfur between the Government of Sudan and the LJM,,,,,
+Ceasefire Agreement between the Government of Sudan and the LJM,,,,,
+Framework Agreement to Resolve the Conflict in Darfur between the Government of Sudan and the JEM,,,,,
+Declaration of Commitment to the Darfur Peace Agreement,,,,,
+Darfur Peace Agreement,,,,,
+"Protocol between the Government of the Sudan (GoS), The Sudan Liberation movement/Army (SLM/A) and the Justice and Equality Movement (JEM) on the Enhancement of the Security Situation in Darfur in Accordance with the N'Djamena Agreement",,,,,
+"Protocol between the Government of Sudan, SLM/A and the JEM on the Improvement of the Humanitarian Situation in Darfur",,,,,
+"Agreement with the Sudanese Parties on the Modalities for the Establishment of the Ceasefire Commission and the Deployment of Observers in the Darfur, Addis Ababa Agreement",,,,,
+"Agreement between the Government of Sudan, the Sudan People's Liberation Movement (SPLM) and the Justice and Equality Movement (JEM), (N'Djamena Agreement)",,,,,
+Humanitarian Ceasefire Agreement on the Conflict in Darfur,,,,,
+Eastern Sudan Peace Agreement,,,,,
+SOMA Agreement on the Joint Monitoring Mission in the Nuba Mountains Area of the Sudan,,,,,
+Agreement between the Governments of Sudan and Uganda (The Nairobi Agreement),,,,,
+Deed of Agreement (between the People's Protection Units (YPG) and the Operations Room of Aleppo),,,,,
+Homs Ceasefire,,,,,
+"'Hudna’ (truce) of al-Zabadani, Kefriyya and al-Fu’aa",,,,,
+Points of the Truce with the People's Protection Units (YPG) ,,,,,
+Homs Hudna Agreement,,,,,
+Damascus Truce I between Bayt Sahem and Babila,,,,,
+Agreement on Jandaires (Aleppo) between the People’s Defence Forces (YPG) and the Free Syrian Army (FSA) ,,,,,
+Field Agreement between the Free Syrian Army (FSA) and People’s Defence Units (YPG) in the city of Ras al-Ain (Serê Kaniyê),,,,,
+General Agreement on the Establishment of Peace and National Accord in Tajikistan,,,,,
+Protocol on the Guarantees of Implementation of the General Agreement on Establishment of Peace and National Accord in Tajikstan,,,,,
+Protocol on Political Issues,,,,,
+Protocol on Military Issues,,,,,
+Additional Protocol to the Protocol on the main functions and powers of the Commission on National Reconciliation,,,,,
+Joint Statement of 21 February 1997,,,,,
+Statute of the Commission on National Reconciliation,,,,,
+Protocol on Refugee Issues,,,,,
+Protocol on the Joint Commission for the Implementation of the Agreement on a Provisional Ceasefire and the Cessation of Other Hostilities on the Tajik-Afghan Border and within the Country,,,,,
+Agreement on a Temporary Ceasefire and the Cessation of Other Hostile Acts on the Tajik-Afghan Border and within the Country for the Duration of the Talks [The Tehran Agreement],,,,,
+Dialogue inter-togolais: memorandum des partis politiques signataires de l'Accord Politique Global et représentés à l'Assemblée Nationale,,,,,
+Dialogue Inter-Togolais: Accord Politique Global,,,,,
+Dialogue inter-togolais: accord cadre de Lomé,,,,,
+"Charte d'Honneur des Partis Politiques, des Coalitions et des Candidats Indépendants pour les élections et les référendums de la République Tunisienne
+
+",,,,,
+"Cessation of Hostilities Agreement between the Government of the Republic of Uganda and the Lord's Resistance Army, Juba, Suda, Addendum 6",,,,,
+"Agreement on Disarmament, Demobilization and Reintegration, Juba, Sudan",,,,,
+Agreement on Implementation and Monitoring Mechanisms,,,,,
+Agreement on a Permanent Ceasefire,,,,,
+Implementation Protocol to the Agreement on Comprehensive Solutions,,,,,
+Annexure to the Agreement on Accountability and Reconciliation,,,,,
+Cessation of Hostilities Agreement between the Government of the Republic of Uganda and the LRA/M (Addendum 5),,,,,
+Cessation of Hostilities Agreement between the Government of the Republic of Uganda and the LRA/M (Addendum 4),,,,,
+Agreement on Accountability and Reconcilation between the Government of the Republic of Uganda and the Lord's Resistance Army/Movement,,,,,
+Agreement on Comprehensive Solutions between the Government of the Republic of Uganda and the LRA/M,,,,,
+Cessation of Hostilities Agreement between the Government of the Republic of Uganda and the LRA/M (Addendum 3),,,,,
+Cessation of Hostilities Agreement between the Government of the Republic of Uganda and the LRA/M (Addendum 2),,,,,
+Cessation of Hostilities Agreement between the Government of the Republic of Uganda and the LRA/M (Addendum 1),,,,,
+Agreement on Cessation of Hostilities between the Government of the Republic of Uganda and the Lord's Resistance Army/Movement (LRA/M),,,,,
+Peace Agreement between the Government of the Republic of Uganda and the National Rescue Front II (Yumbe Peace Agreement),,,,,
+Ceasefire Agreement between the Government of the Republic of Uganda and the Uganda National Rescue Front II,,,,,
+The Agreement between the Uganda Government and the Lord's Resistance Army ('Gulu Ceasefire'),,,,,
+Package of Measures for the Implementation of the Minsk Agreements,,,,,
+Memorandum of 19 September 2014,,,,,
+"Protocol on the results of consultations of the Trilateral Contact Group
+with respect to the joint steps aimed at the implementation of the Peace Plan
+of the President of Ukraine, P. Poroshenko,and the initiatives of the President of Russia, V. Putin",,,,,
+Statement by the President of the Security Council,,,,,
+Agreement between the 'Ubaydah Tribes and Ansar Allah,,,,,
+Peace and National Partnership Implementation Agreement ,,,,,
+The Peace and National Partnership Agreement,,,,,
+Agreement between Al-ʿAwlaqī Tribe and Al-Qaeda,,,,,
+Decision on the President of the Republic No. (27) of 2014 forming the Constitutional Drafting Committee,,,,,
+Final Decision on the delimitation of the Federal Regions,,,,,
+National Dialogue Conference Outcomes Document,,,,,
+"Decree No. (184) for the year 2011, to Form a Government of National Reconciliation, 7 December 2011",,,,,
+Agreement on the Implementation Mechanism for the Transition Process in Yemen in Accordance with the Initiative of the Gulf Cooperation Council (GCC Implementation Mechanism),,,,,
+Agreement/Gulf Cooperation Council (GCC) Initiative,,,,,
+"Presidential Decree No. (24) FY 2011, 12 September 2011",,,,,
+Six-Point Government of Yemen-Houthi Ceasefire Agreement,,,,,
+Doha Agreement,,,,,
+Agreement on a Ceasefire in the Republic of Yemen,,,,,
+Agreement Establishing a Union between the State of the Yemen Arab Republic and the State of the People's Democratic Republic of Yemen,,,,,
+Constitution of Zimbabwe Amendment (No 20) 2013,,,,,
+"Agreement between the Zimbabwe African National Union-Patriotic Front (ZANU-PF) and the Two Movement for Democratic Change (MDC) Formations, on Resolving the Challenges Facing Zimbabwe",,,,,
